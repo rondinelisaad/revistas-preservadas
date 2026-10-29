@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.acervocientifico.com.br",
+  "representative_url": "https://www.acervocientifico.com.br/",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:13:16.030271+00:00"
+}

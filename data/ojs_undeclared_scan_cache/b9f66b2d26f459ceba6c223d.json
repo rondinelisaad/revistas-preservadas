@@ -1,0 +1,19 @@
+{
+  "instance_key": "www.rbone.com.br",
+  "representative_url": "http://www.rbone.com.br/index.php/rbone",
+  "final_url": "https://www.rbone.com.br/index.php/rbone/pt_BR",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.5.0.4",
+  "generator": "Open Journal Systems 3.5.0.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.5.0.4",
+    "texto Open Journal Systems",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:28:59.228146+00:00"
+}

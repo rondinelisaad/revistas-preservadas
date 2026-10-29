@@ -1,0 +1,14 @@
+{
+  "instance_key": "ead.go.gov.br/cadernos",
+  "representative_url": "http://ead.go.gov.br/cadernos/index.php/CDP",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Conexão reiniciada",
+  "error_detail": "[Errno 54] Connection reset by peer",
+  "checked_at_utc": "2026-10-29T18:13:31.490138+00:00"
+}

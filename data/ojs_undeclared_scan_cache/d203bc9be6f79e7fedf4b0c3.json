@@ -1,0 +1,22 @@
+{
+  "instance_key": "revistas.metodista.br",
+  "representative_url": "https://revistas.metodista.br/index.php/anuario/index",
+  "final_url": "https://revistas.metodista.br/index.php/anuario/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.17",
+  "generator": "Open Journal Systems 3.3.0.17",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.17",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:26:04.413626+00:00"
+}

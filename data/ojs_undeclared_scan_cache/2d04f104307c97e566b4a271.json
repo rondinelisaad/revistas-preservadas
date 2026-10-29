@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.geekerd.org",
+  "representative_url": "https://www.geekerd.org/",
+  "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/geekerd.org/geekerd&followup=https://sites.google.com/geekerd.org/geekerd&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-2045123934:1793297418090096",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:10:14.607865+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.jornaldepneumologia.com.br",
+  "representative_url": "http://www.jornaldepneumologia.com.br/default.asp",
+  "final_url": "http://www.jornaldepneumologia.com.br/default.asp",
+  "http_status": 410,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 410",
+  "error_detail": "HTTP Error 410: Gone",
+  "checked_at_utc": "2026-10-29T18:31:12.706647+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "issuu.com",
+  "representative_url": "https://issuu.com/tothcienciaeducacao",
+  "final_url": "https://issuu.com/tothcienciaeducacao",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:13:50.897951+00:00"
+}

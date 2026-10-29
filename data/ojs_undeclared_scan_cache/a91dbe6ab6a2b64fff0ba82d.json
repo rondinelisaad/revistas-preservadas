@@ -1,0 +1,14 @@
+{
+  "instance_key": "kinein.sites.ufsc.br",
+  "representative_url": "http://kinein.sites.ufsc.br/",
+  "final_url": "https://kinein.sites.ufsc.br/",
+  "http_status": 502,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 502",
+  "error_detail": "HTTP Error 502: Bad Gateway",
+  "checked_at_utc": "2026-10-29T18:32:30.381480+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "instance_key": "revista.facpp.edu.br",
+  "representative_url": "https://revista.facpp.edu.br/index.php/rfpp/index",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}

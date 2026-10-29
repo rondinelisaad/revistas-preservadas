@@ -1,0 +1,11 @@
+{
+  "instance_key": "revistas.ung.br",
+  "representative_url": "https://revistas.ung.br/index.php/saude",
+  "final_url": "https://revistas.ung.br/index.php/saude",
+  "http_status": 503,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "HTTP 503"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.fdsm.edu.br",
+  "representative_url": "https://revista.fdsm.edu.br/",
+  "final_url": "https://revista.fdsm.edu.br/",
+  "http_status": 500,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 500",
+  "error_detail": "HTTP Error 500: Internal Server Error",
+  "checked_at_utc": "2026-10-29T18:10:53.688901+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "instance_key": "gpaf.info",
+  "representative_url": "http://gpaf.info/photoarch/index.php?journal=phd",
+  "final_url": "https://gpaf.info/photoarch/index.php?journal=phd",
+  "http_status": 200,
+  "content_type": "application/x-httpd-ea-php72",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "asset /lib/pkp/"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:16:34.484187+00:00"
+}

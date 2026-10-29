@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.rasi.vr.uff.br",
+  "representative_url": "https://www.rasi.vr.uff.br/index.php/rasi/index",
+  "final_url": "https://rasi.vr.uff.br/",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:10:43.179279+00:00"
+}

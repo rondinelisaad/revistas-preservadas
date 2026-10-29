@@ -1,0 +1,22 @@
+{
+  "instance_key": "revistahegemonia.emnuvens.com.br",
+  "representative_url": "https://revistahegemonia.emnuvens.com.br/hegemonia",
+  "final_url": "https://revistahegemonia.emnuvens.com.br/hegemonia",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.8",
+  "generator": "Open Journal Systems 3.3.0.8",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.8",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:30:39.162389+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "faculdadeages.com.br",
+  "representative_url": "http://faculdadeages.com.br/revista",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Erro de conexão",
+  "error_detail": "[Errno 51] Network is unreachable",
+  "checked_at_utc": "2026-10-29T18:27:15.458259+00:00"
+}

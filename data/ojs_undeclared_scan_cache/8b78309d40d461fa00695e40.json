@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.metodista.br/revistas/revistas-unimep",
+  "representative_url": "https://www.metodista.br/revistas/revistas-unimep/index.php/sr",
+  "final_url": "https://metodista.br/revistas/revistas-unimep/sr",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:15:42.463380+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.abrhidro.org.br",
+  "representative_url": "https://www.abrhidro.org.br/SGCv3/publicacao.php",
+  "final_url": "https://www.abrhidro.org.br/SGCv3/publicacao.php",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:08:56.438817+00:00"
+}

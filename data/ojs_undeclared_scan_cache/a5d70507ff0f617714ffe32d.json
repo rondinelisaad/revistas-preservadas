@@ -1,0 +1,14 @@
+{
+  "instance_key": "yesod.sites.uol.com.br",
+  "representative_url": "http://yesod.sites.uol.com.br/cadernos.htm",
+  "final_url": "http://e.indice.uol.com.br/d/?q=yesod.sites.uol.com.br",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:32:32.945902+00:00"
+}

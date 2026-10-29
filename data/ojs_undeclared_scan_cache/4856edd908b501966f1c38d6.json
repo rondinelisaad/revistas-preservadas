@@ -1,0 +1,14 @@
+{
+  "instance_key": "srvapp2s.urisan.tche.br/seer",
+  "representative_url": "http://srvapp2s.urisan.tche.br/seer/index.php/direitosculturais/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:25:26.592182+00:00"
+}

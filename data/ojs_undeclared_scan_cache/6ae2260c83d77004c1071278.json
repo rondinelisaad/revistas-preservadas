@@ -1,0 +1,14 @@
+{
+  "instance_key": "suprema.stf.jus.br",
+  "representative_url": "https://suprema.stf.jus.br/index.php/suprema/index",
+  "final_url": "https://suprema.stf.jus.br/index.php/suprema/index",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:11:06.566251+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ichs.uff.br/ojs",
+  "representative_url": "http://www.ichs.uff.br/ojs/index.php/rppd/index",
+  "final_url": "http://www.ichs.uff.br/ojs/index.php/rppd/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:13:34.162743+00:00"
+}

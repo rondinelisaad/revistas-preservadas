@@ -1,0 +1,22 @@
+{
+  "instance_key": "revhosp.org/ojs",
+  "representative_url": "http://revhosp.org/ojs/index.php/hospitalidade/index",
+  "final_url": "https://revhosp.org/hospitalidade/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.22",
+  "generator": "Open Journal Systems 3.3.0.22",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.22",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:23:53.174313+00:00"
+}

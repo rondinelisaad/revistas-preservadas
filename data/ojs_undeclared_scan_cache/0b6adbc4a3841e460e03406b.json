@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.bvs-vet.org.br",
+  "representative_url": "https://www.bvs-vet.org.br/vetindex/periodicos/acta-cirurgica-brasileira/",
+  "final_url": "https://www.bvs-vet.org.br/vetindex/periodicos/acta-cirurgica-brasileira/",
+  "http_status": 522,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 522",
+  "error_detail": "HTTP Error 522: <none>",
+  "checked_at_utc": "2026-10-29T18:31:33.407310+00:00"
+}

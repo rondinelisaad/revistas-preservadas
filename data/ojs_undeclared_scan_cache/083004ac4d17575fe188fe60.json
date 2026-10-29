@@ -1,0 +1,14 @@
+{
+  "instance_key": "ojs.uespi.br",
+  "representative_url": "https://ojs.uespi.br/index.php/ler/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:20:31.259607+00:00"
+}

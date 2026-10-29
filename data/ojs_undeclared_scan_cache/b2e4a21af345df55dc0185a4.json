@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.geonotas.uem.br",
+  "representative_url": "http://www.geonotas.uem.br/geonotas/",
+  "final_url": "http://www.geonotas.uem.br/geonotas/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:32:51.855137+00:00"
+}

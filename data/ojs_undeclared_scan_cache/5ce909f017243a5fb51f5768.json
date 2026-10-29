@@ -1,0 +1,22 @@
+{
+  "instance_key": "www.motricidades.org/journal",
+  "representative_url": "https://www.motricidades.org/journal/index.php/journal",
+  "final_url": "https://www.motricidades.org/journal/index.php/journal/pt_BR",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.5.0.4",
+  "generator": "Open Journal Systems 3.5.0.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.5.0.4",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:10:41.788997+00:00"
+}

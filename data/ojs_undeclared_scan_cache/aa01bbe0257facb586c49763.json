@@ -1,0 +1,19 @@
+{
+  "instance_key": "www.halacsolcha.org",
+  "representative_url": "https://www.halacsolcha.org/index.php/halac/index",
+  "final_url": "https://www.halacsolcha.org/index.php/halac/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS provável",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:23:14.791428+00:00"
+}

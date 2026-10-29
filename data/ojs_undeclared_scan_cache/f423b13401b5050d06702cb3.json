@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.cbacred.org.br/ojs",
+  "representative_url": "http://www.cbacred.org.br/ojs/index.php/Acred01",
+  "final_url": "http://www.cbacred.org.br/ojs/index.php/Acred01",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:10.508939+00:00"
+}

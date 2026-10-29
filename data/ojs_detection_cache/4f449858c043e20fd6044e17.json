@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.ufpi.br",
+  "representative_url": "https://periodicos.ufpi.br/index.php/reufpi",
+  "final_url": "https://periodicos.ufpi.br/index.php/reufpi",
+  "http_status": 403,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "HTTP 403"
+}

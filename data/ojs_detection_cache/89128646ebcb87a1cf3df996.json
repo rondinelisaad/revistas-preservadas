@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.puc-campinas.edu.br/seer",
+  "representative_url": "http://periodicos.puc-campinas.edu.br/seer/index.php/oculum",
+  "final_url": "https://periodicos.puc-campinas.edu.br/seer/index.php/oculum",
+  "http_status": 403,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "HTTP 403"
+}

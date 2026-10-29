@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.checklist.org.br",
+  "representative_url": "http://www.checklist.org.br",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:30:39.790891+00:00"
+}

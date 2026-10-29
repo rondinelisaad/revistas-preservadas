@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.furb.br",
+  "representative_url": "http://www.furb.br/rea",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Conexão reiniciada",
+  "error_detail": "[Errno 54] Connection reset by peer",
+  "checked_at_utc": "2026-10-29T18:27:55.903257+00:00"
+}

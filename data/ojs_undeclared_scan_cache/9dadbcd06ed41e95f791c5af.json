@@ -1,0 +1,14 @@
+{
+  "instance_key": "strombusjournal.org",
+  "representative_url": "https://strombusjournal.org/",
+  "final_url": "https://strombusjournal.org/",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:27:53.130020+00:00"
+}

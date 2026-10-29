@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.jcc.org.br/ojs2",
+  "representative_url": "http://www.jcc.org.br/ojs2/index.php/jcc",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:13:24.011012+00:00"
+}

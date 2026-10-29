@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.set.com.br/revistaeletronica/radiodifusao",
+  "representative_url": "http://www.set.com.br/revistaeletronica/radiodifusao/index.php/revistaderadiodifusaoset",
+  "final_url": "https://set.org.br/revistaeletronica/radiodifusao/revistaderadiodifusaoset",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:19.809072+00:00"
+}

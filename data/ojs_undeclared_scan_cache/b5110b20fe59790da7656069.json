@@ -1,0 +1,14 @@
+{
+  "instance_key": "seer.upf.br",
+  "representative_url": "http://seer.upf.br/index.php/rjd",
+  "final_url": "https://ojs.upf.br/index.php/rjd",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:20.585324+00:00"
+}

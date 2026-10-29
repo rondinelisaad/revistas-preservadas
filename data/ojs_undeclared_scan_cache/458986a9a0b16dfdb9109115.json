@@ -1,0 +1,19 @@
+{
+  "instance_key": "revistaub.com",
+  "representative_url": "https://revistaub.com/index.php/RUB/index",
+  "final_url": "https://revistaub.com/index.php/RUB/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.18",
+  "generator": "Open Journal Systems 3.3.0.18",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.18",
+    "texto Open Journal Systems",
+    "asset /plugins/themes/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:10:30.722327+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "instance_key": "www.revista.esap.go.gov.br",
+  "representative_url": "https://www.revista.esap.go.gov.br/index.php/resap/index",
+  "final_url": "https://www.revista.esap.go.gov.br/index.php/resap/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.0.3",
+  "generator": "Open Journal Systems 3.2.0.3",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.0.3",
+    "texto Open Journal Systems",
+    "asset /plugins/themes/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:08:56.583554+00:00"
+}

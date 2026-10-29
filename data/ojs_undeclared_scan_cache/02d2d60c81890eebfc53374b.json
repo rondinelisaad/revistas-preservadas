@@ -1,0 +1,14 @@
+{
+  "instance_key": "calafiori.edu.br",
+  "representative_url": "http://calafiori.edu.br/revista",
+  "final_url": "http://calafiori.edu.br/revista/",
+  "http_status": 500,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 500",
+  "error_detail": "HTTP Error 500: Internal Server Error",
+  "checked_at_utc": "2026-10-29T18:19:41.130232+00:00"
+}

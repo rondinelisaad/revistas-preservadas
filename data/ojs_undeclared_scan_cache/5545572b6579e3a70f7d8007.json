@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistas.anec.org.br",
+  "representative_url": "https://revistas.anec.org.br/index.php/revistaeducacao",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'revistas.anec.org.br'. (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:14:58.567520+00:00"
+}

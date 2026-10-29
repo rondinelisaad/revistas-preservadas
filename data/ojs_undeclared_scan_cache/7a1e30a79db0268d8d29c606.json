@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.unigranrio.br",
+  "representative_url": "http://www.unigranrio.br/unidades_acad/ibc/sare/v01n02/indice.html",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "The read operation timed out",
+  "checked_at_utc": "2026-10-29T18:30:01.934159+00:00"
+}

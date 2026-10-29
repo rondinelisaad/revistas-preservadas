@@ -1,0 +1,479 @@
+{
+  "total_revistas": 5379,
+  "com_registro_keepers": 2531,
+  "sem_registro_keepers": 2848,
+  "percentual_com_registro": 0.470533556423127,
+  "com_duas_ou_mais_agencias": 599,
+  "status_summary": [
+    {
+      "situacao": "Vigente",
+      "total": 4969,
+      "com_registro_keepers": 2351,
+      "sem_registro_keepers": 2618,
+      "percentual_com_registro": 0.47313342724894347
+    },
+    {
+      "situacao": "Descontinuada",
+      "total": 410,
+      "com_registro_keepers": 180,
+      "sem_registro_keepers": 230,
+      "percentual_com_registro": 0.43902439024390244
+    }
+  ],
+  "agency_count_distribution": [
+    {
+      "quantidade_agencias": 1,
+      "revistas": 1932
+    },
+    {
+      "quantidade_agencias": 2,
+      "revistas": 535
+    },
+    {
+      "quantidade_agencias": 3,
+      "revistas": 39
+    },
+    {
+      "quantidade_agencias": 4,
+      "revistas": 10
+    },
+    {
+      "quantidade_agencias": 5,
+      "revistas": 9
+    },
+    {
+      "quantidade_agencias": 6,
+      "revistas": 4
+    },
+    {
+      "quantidade_agencias": 7,
+      "revistas": 2
+    }
+  ],
+  "agency_coverage": [
+    {
+      "agencia": "Cariniana Network",
+      "revistas_miguilim": 1975
+    },
+    {
+      "agencia": "Public Knowledge Project PLN",
+      "revistas_miguilim": 960
+    },
+    {
+      "agencia": "Internet Archive",
+      "revistas_miguilim": 122
+    },
+    {
+      "agencia": "Portico",
+      "revistas_miguilim": 59
+    },
+    {
+      "agencia": "National Library of the Netherlands",
+      "revistas_miguilim": 57
+    },
+    {
+      "agencia": "LOCKSS Archive",
+      "revistas_miguilim": 30
+    },
+    {
+      "agencia": "National Digital Preservation Program, China",
+      "revistas_miguilim": 17
+    },
+    {
+      "agencia": "Library of Congress",
+      "revistas_miguilim": 15
+    },
+    {
+      "agencia": "ZBW - Leibniz Information Centre for Economics",
+      "revistas_miguilim": 4
+    },
+    {
+      "agencia": "HathiTrust",
+      "revistas_miguilim": 2
+    },
+    {
+      "agencia": "Scholars Portal",
+      "revistas_miguilim": 1
+    }
+  ],
+  "ojs_summary": {
+    "use_status": [
+      {
+        "status": "Não identificado no Miguilim",
+        "revistas": 3392
+      },
+      {
+        "status": "Sim",
+        "revistas": 1919
+      },
+      {
+        "status": "Outro software declarado",
+        "revistas": 68
+      }
+    ],
+    "verification_status": [
+      {
+        "status": "Versão detectada no site",
+        "revistas": 1516
+      },
+      {
+        "status": "OJS declarado; acesso não concluído",
+        "revistas": 320
+      },
+      {
+        "status": "OJS declarado; versão não exposta",
+        "revistas": 79
+      },
+      {
+        "status": "Site respondeu na revalidação; versão não reavaliada",
+        "revistas": 4
+      }
+    ],
+    "analysis_status": [
+      {
+        "status": "OJS declarado no Miguilim",
+        "revistas": 1919
+      },
+      {
+        "status": "Consulta técnica não concluída",
+        "revistas": 1131
+      },
+      {
+        "status": "OJS provável — instalação compartilhada",
+        "revistas": 850
+      },
+      {
+        "status": "OJS confirmado tecnicamente",
+        "revistas": 779
+      },
+      {
+        "status": "OJS não identificado na página consultada",
+        "revistas": 472
+      },
+      {
+        "status": "Sem URL válida para análise",
+        "revistas": 136
+      },
+      {
+        "status": "Outro software declarado",
+        "revistas": 68
+      },
+      {
+        "status": "OJS provável por assinaturas técnicas",
+        "revistas": 24
+      }
+    ],
+    "versions": [
+      {
+        "versao": "3.3.0.21",
+        "revistas": 388
+      },
+      {
+        "versao": "3.3.0.22",
+        "revistas": 360
+      },
+      {
+        "versao": "3.5.0.5",
+        "revistas": 313
+      },
+      {
+        "versao": "3.4.0.10",
+        "revistas": 200
+      },
+      {
+        "versao": "3.3.0.23",
+        "revistas": 199
+      },
+      {
+        "versao": "3.5.0.3",
+        "revistas": 184
+      },
+      {
+        "versao": "3.4.0.9",
+        "revistas": 142
+      },
+      {
+        "versao": "3.3.0.20",
+        "revistas": 137
+      },
+      {
+        "versao": "3.4.0.8",
+        "revistas": 98
+      },
+      {
+        "versao": "3.2.1.4",
+        "revistas": 59
+      },
+      {
+        "versao": "3.3.0.17",
+        "revistas": 59
+      },
+      {
+        "versao": "3.3.0.10",
+        "revistas": 56
+      },
+      {
+        "versao": "3.3.0.14",
+        "revistas": 53
+      },
+      {
+        "versao": "3.3.0.13",
+        "revistas": 52
+      },
+      {
+        "versao": "3.3.0.19",
+        "revistas": 50
+      },
+      {
+        "versao": "3.4.0.11",
+        "revistas": 46
+      },
+      {
+        "versao": "3.5.0.4",
+        "revistas": 45
+      },
+      {
+        "versao": "3.1.2.4",
+        "revistas": 36
+      },
+      {
+        "versao": "3.4.6.2",
+        "revistas": 36
+      },
+      {
+        "versao": "3.3.0.16",
+        "revistas": 32
+      },
+      {
+        "versao": "3.3.0.8",
+        "revistas": 26
+      },
+      {
+        "versao": "3.2.1.2",
+        "revistas": 23
+      },
+      {
+        "versao": "3.3.0.15",
+        "revistas": 22
+      },
+      {
+        "versao": "2.4.8.1",
+        "revistas": 18
+      },
+      {
+        "versao": "3.4.0.7",
+        "revistas": 17
+      },
+      {
+        "versao": "3.4.0.4",
+        "revistas": 16
+      },
+      {
+        "versao": "3.4.0.5",
+        "revistas": 15
+      },
+      {
+        "versao": "3.3.0.11",
+        "revistas": 13
+      },
+      {
+        "versao": "3.5.0",
+        "revistas": 13
+      },
+      {
+        "versao": "2.4.6.0",
+        "revistas": 11
+      },
+      {
+        "versao": "3.1.1.2",
+        "revistas": 11
+      },
+      {
+        "versao": "2.4.8.5",
+        "revistas": 11
+      },
+      {
+        "versao": "2.3.7.0",
+        "revistas": 10
+      },
+      {
+        "versao": "2.4.8.0",
+        "revistas": 10
+      },
+      {
+        "versao": "3.5.0.1",
+        "revistas": 8
+      },
+      {
+        "versao": "3.3.0.18",
+        "revistas": 8
+      },
+      {
+        "versao": "3.1.1.4",
+        "revistas": 7
+      },
+      {
+        "versao": "3.1.2.1",
+        "revistas": 7
+      },
+      {
+        "versao": "2.4.5.0",
+        "revistas": 7
+      },
+      {
+        "versao": "2.4.2.0",
+        "revistas": 6
+      },
+      {
+        "versao": "3.2.1.1",
+        "revistas": 6
+      },
+      {
+        "versao": "3.2.0.3",
+        "revistas": 5
+      },
+      {
+        "versao": "3.4.0.6",
+        "revistas": 5
+      },
+      {
+        "versao": "3.4.0.3",
+        "revistas": 5
+      },
+      {
+        "versao": "3.3.0.6",
+        "revistas": 5
+      },
+      {
+        "versao": "3.3.0.3",
+        "revistas": 5
+      },
+      {
+        "versao": "3.1.1.0",
+        "revistas": 4
+      },
+      {
+        "versao": "3.3.0.7",
+        "revistas": 4
+      },
+      {
+        "versao": "2.4.8.3",
+        "revistas": 3
+      },
+      {
+        "versao": "3.3.9.9",
+        "revistas": 3
+      },
+      {
+        "versao": "3.3.0.12",
+        "revistas": 3
+      },
+      {
+        "versao": "2.4.8.2",
+        "revistas": 3
+      },
+      {
+        "versao": "2.3.8.0",
+        "revistas": 3
+      },
+      {
+        "versao": "3.2.1.5",
+        "revistas": 2
+      },
+      {
+        "versao": "3.5.0.2",
+        "revistas": 2
+      },
+      {
+        "versao": "3.2.0.1",
+        "revistas": 2
+      },
+      {
+        "versao": "3.4.0.1",
+        "revistas": 2
+      },
+      {
+        "versao": "3.2.0.2",
+        "revistas": 2
+      },
+      {
+        "versao": "3.1.0.1",
+        "revistas": 2
+      },
+      {
+        "versao": "2.4.8.4",
+        "revistas": 2
+      },
+      {
+        "versao": "3.3.0.4",
+        "revistas": 1
+      },
+      {
+        "versao": "3.2.1.0",
+        "revistas": 1
+      },
+      {
+        "versao": "3.3.0.2",
+        "revistas": 1
+      },
+      {
+        "versao": "3.3.0.5",
+        "revistas": 1
+      },
+      {
+        "versao": "3.1.0.0",
+        "revistas": 1
+      },
+      {
+        "versao": "2.3.6.0",
+        "revistas": 1
+      },
+      {
+        "versao": "2.4.3.0",
+        "revistas": 1
+      },
+      {
+        "versao": "2.4.7.1",
+        "revistas": 1
+      }
+    ],
+    "version_families": [
+      {
+        "familia": "3.3",
+        "revistas": 1478
+      },
+      {
+        "familia": "3.4",
+        "revistas": 582
+      },
+      {
+        "familia": "3.5",
+        "revistas": 565
+      },
+      {
+        "familia": "3.2",
+        "revistas": 100
+      },
+      {
+        "familia": "2.4",
+        "revistas": 73
+      },
+      {
+        "familia": "3.1",
+        "revistas": 68
+      },
+      {
+        "familia": "2.3",
+        "revistas": 14
+      }
+    ]
+  },
+  "method": {
+    "miguilim_source": "https://miguilim.ibict.br/simple-search (coleção Revistas científicas)",
+    "keepers_source": "https://keepers.issn.org/advancedsearch (Country: Brazil; The Keepers: yes)",
+    "match_key": "ISSN do campo dc.identifier.issn do Miguilim",
+    "definition": "Com registro em agência no Keepers significa que o ISSN aparece em pelo menos uma faceta de agência do Archival Status. A contagem considera agências distintas.",
+    "retrieval_date": "2026-10-29",
+    "ojs_definition": "A declaração explícita vem do campo Software utilizado do Miguilim. Nos registros sem declaração, a análise técnica usa uma página representativa por instalação, assinaturas públicas do OJS e correlação com instalações compartilhadas."
+  }
+}

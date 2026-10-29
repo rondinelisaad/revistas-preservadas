@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.unisal.br/am",
+  "representative_url": "http://revista.unisal.br/am/index.php/psico/index",
+  "final_url": "https://revista.unisal.br/am/index.php/psico/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:20:11.678070+00:00"
+}

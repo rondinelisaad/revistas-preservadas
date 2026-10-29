@@ -1,0 +1,20 @@
+{
+  "instance_key": "incubadora.periodicos.ifsc.edu.br",
+  "representative_url": "http://incubadora.periodicos.ifsc.edu.br/index.php/ReCAT/index",
+  "final_url": "http://incubadora.periodicos.ifsc.edu.br/index.php/ReCAT/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "2.4.6.0",
+  "generator": "Open Journal Systems 2.4.6.0",
+  "signatures": [
+    "meta generator: Open Journal Systems 2.4.6.0",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/generic/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:17:06.828707+00:00"
+}

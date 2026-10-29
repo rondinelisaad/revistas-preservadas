@@ -1,0 +1,14 @@
+{
+  "instance_key": "scientiacanonica.org",
+  "representative_url": "https://scientiacanonica.org/",
+  "final_url": "https://scientiacanonica.org/",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:13:51.606285+00:00"
+}

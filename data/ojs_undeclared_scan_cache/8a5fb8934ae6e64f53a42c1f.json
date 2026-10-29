@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistacej.cjf.jus.br",
+  "representative_url": "https://revistacej.cjf.jus.br/revcej",
+  "final_url": "https://revistacej.cjf.jus.br/revcej",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:51.374479+00:00"
+}

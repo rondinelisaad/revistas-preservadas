@@ -1,0 +1,20 @@
+{
+  "instance_key": "www.aph.org.br/revista",
+  "representative_url": "http://www.aph.org.br/revista/index.php/aph/index",
+  "final_url": "http://revista.aph.org.br/index.php/aph/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "2.4.7.1",
+  "generator": "Open Journal Systems 2.4.7.1",
+  "signatures": [
+    "meta generator: Open Journal Systems 2.4.7.1",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/generic/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:26:52.797826+00:00"
+}

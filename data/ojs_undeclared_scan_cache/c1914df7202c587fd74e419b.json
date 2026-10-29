@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.unifor.br",
+  "representative_url": "http://www.unifor.br/index.php?option=com_content&view=article&id=3313&Itemid=1476",
+  "final_url": "https://www.unifor.br/index.php?option=com_content&view=article&id=3313&Itemid=1476",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: ",
+  "checked_at_utc": "2026-10-29T18:22:39.092912+00:00"
+}

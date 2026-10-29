@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.abrates.org.br",
+  "representative_url": "http://www.abrates.org.br/portal/revista/",
+  "final_url": "http://www.abrates.org.br/portal/revista/",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:31:07.664390+00:00"
+}

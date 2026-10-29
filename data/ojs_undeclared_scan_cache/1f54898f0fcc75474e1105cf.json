@@ -1,0 +1,14 @@
+{
+  "instance_key": "srvapp2s.santoangelo.uri.br/seer",
+  "representative_url": "http://srvapp2s.santoangelo.uri.br/seer/index.php/gesto",
+  "final_url": "https://srvapp2s.santoangelo.uri.br/seer/index.php/gesto",
+  "http_status": 502,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 502",
+  "error_detail": "HTTP Error 502: Bad Gateway",
+  "checked_at_utc": "2026-10-29T18:14:06.988832+00:00"
+}

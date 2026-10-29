@@ -1,0 +1,16 @@
+{
+  "instance_key": "bjihs.emnuvens.com.br",
+  "representative_url": "https://bjihs.emnuvens.com.br/bjihs",
+  "final_url": "https://bjihs.emnuvens.com.br/bjihs",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS provável",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:12:29.920763+00:00"
+}

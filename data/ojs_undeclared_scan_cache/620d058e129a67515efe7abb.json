@@ -1,0 +1,14 @@
+{
+  "instance_key": "ojs.defensoria.sp.def.br",
+  "representative_url": "https://ojs.defensoria.sp.def.br/index.php/RDPSP/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:12:28.355495+00:00"
+}

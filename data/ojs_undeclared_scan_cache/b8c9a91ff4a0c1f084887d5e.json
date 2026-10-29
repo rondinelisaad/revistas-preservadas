@@ -1,0 +1,14 @@
+{
+  "instance_key": "periodicos.ufersa.edu.br/revistas",
+  "representative_url": "http://periodicos.ufersa.edu.br/revistas/index.php/jabb",
+  "final_url": "https://periodicos.ufersa.edu.br/revistas/index.php/jabb",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:10:48.344489+00:00"
+}

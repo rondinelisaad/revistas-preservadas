@@ -1,0 +1,14 @@
+{
+  "instance_key": "publicacoes.udf.edu.br",
+  "representative_url": "http://publicacoes.udf.edu.br/index.php/relacoes-sociais-trabalhista/index",
+  "final_url": "https://publicacoes.udf.edu.br/index.php/relacoes-sociais-trabalhista/index",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:18:19.459096+00:00"
+}

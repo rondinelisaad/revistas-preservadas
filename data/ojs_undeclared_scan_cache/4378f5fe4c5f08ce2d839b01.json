@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.cca.uem.br",
+  "representative_url": "http://www.cca.uem.br//indiceanuario.htm Note : Resource no longer available online",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "InvalidURL",
+  "error_detail": "URL can't contain control characters. '//indiceanuario.htm Note : Resource no longer available online' (found at least ' ')",
+  "checked_at_utc": "2026-10-29T18:32:32.400234+00:00"
+}

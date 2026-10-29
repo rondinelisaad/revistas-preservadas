@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.unar.edu.br",
+  "representative_url": "http://www.unar.edu.br/unar2007/revista/index.html",
+  "final_url": "https://unar.edu.br/unar2007/revista/index.html",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:28:21.883167+00:00"
+}

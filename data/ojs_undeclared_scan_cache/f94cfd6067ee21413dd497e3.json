@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.unifoa.edu.br",
+  "representative_url": "http://www.unifoa.edu.br/praxis/ojs",
+  "final_url": "https://www.unifoa.edu.br/praxis/ojs",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:25:43.907343+00:00"
+}

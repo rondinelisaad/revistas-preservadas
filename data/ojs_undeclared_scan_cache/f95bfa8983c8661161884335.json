@@ -1,0 +1,21 @@
+{
+  "instance_key": "nppg.org.br",
+  "representative_url": "https://nppg.org.br/revistas/boletimdogerenciamento",
+  "final_url": "https://nppg.org.br/revistas/boletimdogerenciamento",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.22",
+  "generator": "Open Journal Systems 3.3.0.22",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.22",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:33.287417+00:00"
+}

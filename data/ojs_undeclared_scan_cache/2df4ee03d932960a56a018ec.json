@@ -1,0 +1,14 @@
+{
+  "instance_key": "stat.necat.incubadora.ufsc.br",
+  "representative_url": "http://stat.necat.incubadora.ufsc.br/index.php/cbsm/article/view/2951",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Erro de conexão",
+  "error_detail": "[Errno 51] Network is unreachable",
+  "checked_at_utc": "2026-10-29T18:13:43.371617+00:00"
+}

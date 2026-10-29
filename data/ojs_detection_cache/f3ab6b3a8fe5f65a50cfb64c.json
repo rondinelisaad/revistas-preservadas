@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.unesc.net",
+  "representative_url": "http://periodicos.unesc.net/pedag",
+  "final_url": "https://periodicos.unesc.net/ojs/index.php/pedag",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.3.0.17",
+  "ojs_detected_in_page": true,
+  "version": "3.3.0.17",
+  "evidence": "Open Journal Systems 3.3.0.17",
+  "error": ""
+}

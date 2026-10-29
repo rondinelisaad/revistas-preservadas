@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.domhelder.edu.br/revista",
+  "representative_url": "http://www.domhelder.edu.br/revista/index.php/veredas/index",
+  "final_url": "https://domhelder.edu.br/revista/veredas/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:12:58.238746+00:00"
+}

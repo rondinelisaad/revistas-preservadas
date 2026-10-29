@@ -1,0 +1,22 @@
+{
+  "instance_key": "revista.grupointegrado.br/revista",
+  "representative_url": "http://revista.grupointegrado.br/revista/index.php/discursojuridico",
+  "final_url": "https://revista2.grupointegrado.br/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.1.4",
+  "generator": "Open Journal Systems 3.2.1.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.1.4",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:28:18.102991+00:00"
+}

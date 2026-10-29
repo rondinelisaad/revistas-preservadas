@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistas.unijorge.edu.br",
+  "representative_url": "http://revistas.unijorge.edu.br/candomba/",
+  "final_url": "https://revistas.unijorge.edu.br/candomba/",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:30:43.536884+00:00"
+}

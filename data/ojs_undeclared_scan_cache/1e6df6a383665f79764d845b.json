@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ufjf.br",
+  "representative_url": "http://www.ufjf.br/eticaefilosofia/",
+  "final_url": "https://www2.ufjf.br/eticaefilosofia/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:16:30.360851+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "instance_key": "revistas.ifpe.edu.br",
+  "representative_url": "https://revistas.ifpe.edu.br/cientec/index",
+  "final_url": "https://revistas.ifpe.edu.br/cientec/index",
+  "http_status": 403,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "HTTP 403"
+}

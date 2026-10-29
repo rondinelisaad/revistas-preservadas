@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.mikrus.com.br",
+  "representative_url": "http://www.mikrus.com.br/~revistatpec/",
+  "final_url": "http://www.mikrus.com.br/~revistatpec/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:54.952536+00:00"
+}

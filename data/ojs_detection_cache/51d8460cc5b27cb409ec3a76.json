@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.unemat.br",
+  "representative_url": "http://periodicos.unemat.br/index.php/ecos",
+  "final_url": "https://periodicos.unemat.br/index.php/ecos",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.5.0.5",
+  "ojs_detected_in_page": true,
+  "version": "3.5.0.5",
+  "evidence": "Open Journal Systems 3.5.0.5",
+  "error": ""
+}

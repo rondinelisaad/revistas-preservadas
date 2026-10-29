@@ -1,0 +1,22 @@
+{
+  "instance_key": "latinamericanpublicacoes.com.br/ojs",
+  "representative_url": "https://latinamericanpublicacoes.com.br/ojs/index.php/jdev",
+  "final_url": "https://ojs.latinamericanpublicacoes.com.br/ojs/index.php/jdev",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.13",
+  "generator": "Open Journal Systems 3.3.0.13",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.13",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:11:49.434617+00:00"
+}

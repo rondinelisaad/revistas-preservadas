@@ -1,0 +1,14 @@
+{
+  "instance_key": "jgsb.sgb.gov.br",
+  "representative_url": "https://jgsb.sgb.gov.br/index.php/journal",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jgsb.sgb.gov.br'. (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:08:57.381878+00:00"
+}

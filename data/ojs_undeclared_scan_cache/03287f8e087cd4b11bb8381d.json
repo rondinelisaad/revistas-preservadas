@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.mackenzie.br",
+  "representative_url": "http://www.mackenzie.br/cad_pos_g_eahc.html",
+  "final_url": "https://www.mackenzie.br:443/cad_pos_g_eahc.html",
+  "http_status": 301,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 301",
+  "error_detail": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+  "checked_at_utc": "2026-10-29T18:30:29.269522+00:00"
+}

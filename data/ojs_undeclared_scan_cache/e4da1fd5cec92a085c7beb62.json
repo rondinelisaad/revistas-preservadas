@@ -1,0 +1,14 @@
+{
+  "instance_key": "ciaten.org.br",
+  "representative_url": "https://ciaten.org.br/newsletters",
+  "final_url": "https://novosite.ciaten.org.br/",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:11:09.616786+00:00"
+}

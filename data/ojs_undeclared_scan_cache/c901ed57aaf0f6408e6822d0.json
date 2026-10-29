@@ -1,0 +1,14 @@
+{
+  "instance_key": "citrus.uspnet.usp.br/biomecan/ojs",
+  "representative_url": "http://citrus.uspnet.usp.br/biomecan/ojs/index.php/rbb/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:27:51.341303+00:00"
+}

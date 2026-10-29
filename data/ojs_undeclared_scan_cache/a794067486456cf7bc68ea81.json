@@ -1,0 +1,14 @@
+{
+  "instance_key": "smsrio.org/revista",
+  "representative_url": "http://smsrio.org/revista/index.php/reva/index",
+  "final_url": "http://smsrio.org/revista/index.php/reva/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:16:06.449008+00:00"
+}

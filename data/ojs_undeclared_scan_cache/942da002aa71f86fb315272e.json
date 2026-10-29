@@ -1,0 +1,22 @@
+{
+  "instance_key": "hehe.org.br",
+  "representative_url": "https://hehe.org.br/index.php/rabphe",
+  "final_url": "https://www.hehe.org.br/index.php/rabphe",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.17",
+  "generator": "Open Journal Systems 3.3.0.17",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.17",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:15:48.830130+00:00"
+}

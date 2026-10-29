@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ufsm.br",
+  "representative_url": "http://www.ufsm.br/dentisticaonline/",
+  "final_url": "https://www.ufsm.br/dentisticaonline",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:32:35.001709+00:00"
+}

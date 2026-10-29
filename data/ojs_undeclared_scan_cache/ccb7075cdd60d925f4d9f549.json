@@ -1,0 +1,22 @@
+{
+  "instance_key": "acervomais.com.br",
+  "representative_url": "https://acervomais.com.br/index.php/saude",
+  "final_url": "https://acervomais.com.br/index.php/saude",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.1.1.2",
+  "generator": "Open Journal Systems 3.1.1.2",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.1.1.2",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:12:48.546269+00:00"
+}

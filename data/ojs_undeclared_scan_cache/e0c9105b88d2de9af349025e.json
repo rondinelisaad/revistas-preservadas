@@ -1,0 +1,14 @@
+{
+  "instance_key": "revodonto.bvsalud.org",
+  "representative_url": "http://revodonto.bvsalud.org/revistas/sto/iaboutj.htm",
+  "final_url": "https://revodonto.bvsalud.org/revistas/sto/iaboutj.htm",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:23.482479+00:00"
+}

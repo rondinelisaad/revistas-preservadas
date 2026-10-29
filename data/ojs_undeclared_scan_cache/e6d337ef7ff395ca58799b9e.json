@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.liberato.com.br/ojs-2",
+  "representative_url": "http://revista.liberato.com.br/ojs-2/index.php/revista",
+  "final_url": "https://revista.liberato.com.br/ojs-2/index.php/revista",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:24:40.158277+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "instance_key": "www.revistas.udesc.br",
+  "representative_url": "https://www.revistas.udesc.br/index.php/dapesquisa",
+  "final_url": "https://www.revistas.udesc.br/index.php/dapesquisa/pt_BR",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.5.0.5",
+  "ojs_detected_in_page": true,
+  "version": "3.5.0.5",
+  "evidence": "Open Journal Systems 3.5.0.5",
+  "error": ""
+}

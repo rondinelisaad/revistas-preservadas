@@ -1,0 +1,14 @@
+{
+  "instance_key": "itepa.com.br/ojs",
+  "representative_url": "https://itepa.com.br/ojs/index.php/teopraxis/index",
+  "final_url": "https://itepa.com.br/ojs/teopraxis/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:11:13.990760+00:00"
+}

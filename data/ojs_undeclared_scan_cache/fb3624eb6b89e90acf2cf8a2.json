@@ -1,0 +1,20 @@
+{
+  "instance_key": "phenomenology.com.br",
+  "representative_url": "https://phenomenology.com.br/index.php/phe/index",
+  "final_url": "https://phenomenology.com.br/index.php/phe/pt_BR/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.5.0.4",
+  "generator": "Open Journal Systems 3.5.0.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.5.0.4",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:53.266657+00:00"
+}

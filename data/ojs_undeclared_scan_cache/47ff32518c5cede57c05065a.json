@@ -1,0 +1,14 @@
+{
+  "instance_key": "www12.unopar.br",
+  "representative_url": "http://www12.unopar.br/unopar/pesquisa/rcExatas.action",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www12.unopar.br'. (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:21:20.277964+00:00"
+}

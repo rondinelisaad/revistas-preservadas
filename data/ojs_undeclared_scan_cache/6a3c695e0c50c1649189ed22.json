@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.esdm.com.br",
+  "representative_url": "http://revista.esdm.com.br/index.php/esdm",
+  "final_url": "https://revista.esdm.com.br/index.php/esdm",
+  "http_status": 302,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 302",
+  "error_detail": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound",
+  "checked_at_utc": "2026-10-29T18:13:21.198330+00:00"
+}

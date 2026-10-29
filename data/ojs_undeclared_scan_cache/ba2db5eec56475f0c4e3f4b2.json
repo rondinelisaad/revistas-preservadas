@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revistaseletronicas.fmu.br",
+  "representative_url": "http://www.revistaseletronicas.fmu.br/index.php/ASA",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:17:13.070687+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "instance_key": "incubadora.periodicos.ufsc.br",
+  "representative_url": "http://incubadora.periodicos.ufsc.br/index.php/eRevistaLOGO/index",
+  "final_url": "https://periodicos.ufsc.br/index.php/erevistalogo",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.23",
+  "generator": "Open Journal Systems 3.3.0.23",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.23",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:22:36.950723+00:00"
+}

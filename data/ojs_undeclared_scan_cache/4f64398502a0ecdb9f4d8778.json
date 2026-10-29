@@ -1,0 +1,21 @@
+{
+  "instance_key": "journal.editorailustracao.com.br",
+  "representative_url": "http://journal.editorailustracao.com.br/index.php/ilustracao",
+  "final_url": "https://journal.editorailustracao.com.br/index.php/ilustracao",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.11",
+  "generator": "Open Journal Systems 3.3.0.11",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.11",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:11:23.720248+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.ifpb.edu.br",
+  "representative_url": "http://periodicos.ifpb.edu.br/index.php/rgo",
+  "final_url": "https://periodicos.ifpb.edu.br/index.php/rgo",
+  "http_status": 503,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "HTTP 503"
+}

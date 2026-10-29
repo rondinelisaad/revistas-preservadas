@@ -1,0 +1,22 @@
+{
+  "instance_key": "www.fiepbulletin.net",
+  "representative_url": "http://www.fiepbulletin.net/index.php/fiepbulletin/index",
+  "final_url": "https://ojs.fiepbulletin.net/fiepbulletin/pt_BR/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.5.0.5",
+  "generator": "Open Journal Systems 3.5.0.5",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.5.0.5",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:33.229449+00:00"
+}

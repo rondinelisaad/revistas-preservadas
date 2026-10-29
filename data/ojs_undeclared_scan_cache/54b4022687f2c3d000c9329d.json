@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ct.ceci-br.org",
+  "representative_url": "http://www.ct.ceci-br.org/novo/revista/",
+  "final_url": "http://www.ct.ceci-br.org/novo/revista/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:04.435256+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.valdeci.bio.br",
+  "representative_url": "http://www.valdeci.bio.br/revista.html",
+  "final_url": "http://www.valdeci.bio.br/revista.html",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:30:29.670384+00:00"
+}

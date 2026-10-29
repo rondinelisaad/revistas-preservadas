@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revistalabor.ufc.br",
+  "representative_url": "http://www.revistalabor.ufc.br/index.php",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Conexão recusada",
+  "error_detail": "[Errno 61] Connection refused",
+  "checked_at_utc": "2026-10-29T18:27:41.907559+00:00"
+}

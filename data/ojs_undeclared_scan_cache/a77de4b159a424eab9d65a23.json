@@ -1,0 +1,21 @@
+{
+  "instance_key": "lestu.org/journals",
+  "representative_url": "https://lestu.org/journals/index.php/josshe/about",
+  "final_url": "https://lestu.org/journals/index.php/josshe/about",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.0.2",
+  "generator": "Open Journal Systems 3.2.0.2",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.0.2",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:11:55.231740+00:00"
+}

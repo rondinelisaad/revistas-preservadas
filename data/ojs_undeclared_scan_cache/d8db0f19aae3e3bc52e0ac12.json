@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.periodicoshumanas.uff.br",
+  "representative_url": "http://www.periodicoshumanas.uff.br/convergenciacritica",
+  "final_url": "https://www.periodicoshumanas.uff.br/convergenciacritica",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:22:13.394274+00:00"
+}

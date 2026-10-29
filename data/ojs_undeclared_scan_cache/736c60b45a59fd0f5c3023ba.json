@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.degeo.ufop.br",
+  "representative_url": "http://www.degeo.ufop.br/geobr/",
+  "final_url": "https://degeo.ufop.br/geobr",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:32:25.265075+00:00"
+}

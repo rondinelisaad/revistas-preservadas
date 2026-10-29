@@ -1,0 +1,14 @@
+{
+  "instance_key": "periodicos.ucsal.br",
+  "representative_url": "https://periodicos.ucsal.br/index.php/cadernosdoceas/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:17:23.429722+00:00"
+}

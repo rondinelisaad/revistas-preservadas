@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.gaepp.ufma.br/site",
+  "representative_url": "http://www.gaepp.ufma.br/site/index.php/boletim-do-observatorio-social-e-do-trabalho",
+  "final_url": "http://www.gaepp.ufma.br/site/index.php/boletim-do-observatorio-social-e-do-trabalho",
+  "http_status": 500,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 500",
+  "error_detail": "HTTP Error 500: Internal Server Error",
+  "checked_at_utc": "2026-10-29T18:19:36.886626+00:00"
+}

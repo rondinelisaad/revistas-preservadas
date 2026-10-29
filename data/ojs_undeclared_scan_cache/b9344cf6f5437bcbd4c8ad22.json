@@ -1,0 +1,22 @@
+{
+  "instance_key": "www.portalseer.ufba.br",
+  "representative_url": "http://www.portalseer.ufba.br/index.php/nit",
+  "final_url": "https://periodicos.ufba.br/index.php/nit",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.1.4",
+  "generator": "Open Journal Systems 3.2.1.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.1.4",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:21:07.859060+00:00"
+}

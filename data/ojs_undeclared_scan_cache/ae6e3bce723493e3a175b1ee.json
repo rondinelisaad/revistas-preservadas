@@ -1,0 +1,14 @@
+{
+  "instance_key": "anpad.org.br",
+  "representative_url": "http://anpad.org.br/periodicos/content/frame_base.php?revista=3",
+  "final_url": "https://anpad.org.br/periodicos/content/frame_base.php?revista=3",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:29:13.669437+00:00"
+}

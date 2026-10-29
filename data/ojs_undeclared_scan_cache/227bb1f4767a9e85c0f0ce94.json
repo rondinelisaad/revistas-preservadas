@@ -1,0 +1,14 @@
+{
+  "instance_key": "ria.net.br",
+  "representative_url": "https://ria.net.br/index.php/ria",
+  "final_url": "https://ria.net.br/index.php/ria",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:24:32.776819+00:00"
+}

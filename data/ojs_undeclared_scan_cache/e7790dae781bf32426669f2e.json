@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.upf.br/seer",
+  "representative_url": "http://www.upf.br/seer/index.php/rep",
+  "final_url": "https://ojs.upf.br/index.php/rep",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:19:44.486044+00:00"
+}

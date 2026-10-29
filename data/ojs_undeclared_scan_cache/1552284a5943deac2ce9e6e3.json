@@ -1,0 +1,16 @@
+{
+  "instance_key": "seer.ufs.br",
+  "representative_url": "https://seer.ufs.br/index.php/revec",
+  "final_url": "https://periodicos.ufs.br/revec",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS provável",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:10:48.781865+00:00"
+}

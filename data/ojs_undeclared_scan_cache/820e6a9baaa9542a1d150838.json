@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.cisc.org.br/portal",
+  "representative_url": "http://www.cisc.org.br/portal/index.php/revista-ghrebh-/apresentacao.html",
+  "final_url": "http://www.cisc.org.br/portal/index.php/revista-ghrebh-/apresentacao.html",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:19.311048+00:00"
+}

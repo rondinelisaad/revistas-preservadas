@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ambr.org.br",
+  "representative_url": "http://www.ambr.org.br/comunicacao/brasilia-medica/",
+  "final_url": "http://ambr.org.br/comunicacao/brasilia-medica/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:35.829988+00:00"
+}

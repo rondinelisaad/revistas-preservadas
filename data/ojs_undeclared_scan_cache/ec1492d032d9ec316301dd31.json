@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.anppom.com.br/revista",
+  "representative_url": "http://www.anppom.com.br/revista/index.php/opus",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "The read operation timed out",
+  "checked_at_utc": "2026-10-29T18:32:37.985463+00:00"
+}

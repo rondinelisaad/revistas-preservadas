@@ -1,0 +1,21 @@
+{
+  "instance_key": "sou.ucs.br/etc/revistas",
+  "representative_url": "https://sou.ucs.br/etc/revistas/index.php/docorpo/index",
+  "final_url": "https://sou.ucs.br/etc/revistas/index.php/docorpo/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.23",
+  "generator": "Open Journal Systems 3.3.0.23",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.23",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:15.460339+00:00"
+}

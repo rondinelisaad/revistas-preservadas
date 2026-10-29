@@ -1,0 +1,14 @@
+{
+  "instance_key": "riee.ufjf.emnuvens.com.br",
+  "representative_url": "https://riee.ufjf.emnuvens.com.br/riee/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:25:25.168114+00:00"
+}

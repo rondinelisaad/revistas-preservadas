@@ -1,0 +1,14 @@
+{
+  "instance_key": "sinte.btv.ifsp.edu.br",
+  "representative_url": "http://sinte.btv.ifsp.edu.br/index.php/SInTE/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:17:40.091983+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "abarriguda.org.br/revista",
+  "representative_url": "http://abarriguda.org.br/revista/index.php/revistaabarrigudaarepb/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/SSL",
+  "error_detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:23:24.196212+00:00"
+}

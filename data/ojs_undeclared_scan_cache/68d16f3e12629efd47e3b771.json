@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revistageintec.net",
+  "representative_url": "http://www.revistageintec.net/index.php/revista",
+  "final_url": "http://www.revistageintec.net/index.php/revista",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:23:18.192936+00:00"
+}

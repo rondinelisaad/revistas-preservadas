@@ -1,0 +1,14 @@
+{
+  "instance_key": "redelp.net/revistas",
+  "representative_url": "https://redelp.net/revistas/index.php/rms",
+  "final_url": "https://redelp.net/revistas/index.php/rms",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:15:06.744862+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.fatece.edu.br",
+  "representative_url": "http://www.fatece.edu.br/revista/perspectivas/perspectivas.asp",
+  "final_url": "https://www.fatece.edu.br/revista/perspectivas/perspectivas.asp",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:22:53.332681+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "editora.observatoriodocuidado.org",
+  "representative_url": "https://editora.observatoriodocuidado.org/index.php/CC/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:13:59.891665+00:00"
+}

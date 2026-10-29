@@ -1,0 +1,20 @@
+{
+  "instance_key": "revista.unilus.edu.br",
+  "representative_url": "http://revista.unilus.edu.br/index.php/ruep",
+  "final_url": "http://revista.unilus.edu.br/index.php/ruep",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "2.4.8.0",
+  "generator": "Open Journal Systems 2.4.8.0",
+  "signatures": [
+    "meta generator: Open Journal Systems 2.4.8.0",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/generic/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:20:14.307239+00:00"
+}

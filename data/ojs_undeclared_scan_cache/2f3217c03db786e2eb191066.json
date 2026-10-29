@@ -1,0 +1,14 @@
+{
+  "instance_key": "produtos.seade.gov.br",
+  "representative_url": "http://produtos.seade.gov.br/produtos/spp/index.php?men=res",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:31:08.703985+00:00"
+}

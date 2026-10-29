@@ -1,0 +1,21 @@
+{
+  "instance_key": "www.ensaiospedagogicos.ufscar.br",
+  "representative_url": "http://www.ensaiospedagogicos.ufscar.br/index.php/ENP",
+  "final_url": "https://www.ensaiospedagogicos.ufscar.br/index.php/ENP",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.19",
+  "generator": "Open Journal Systems 3.3.0.19",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.19",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:14:54.321496+00:00"
+}

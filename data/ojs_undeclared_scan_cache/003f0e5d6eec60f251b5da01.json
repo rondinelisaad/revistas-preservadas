@@ -1,0 +1,14 @@
+{
+  "instance_key": "aps.ufjf.emnuvens.com.br",
+  "representative_url": "https://aps.ufjf.emnuvens.com.br/aps/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:30:22.113554+00:00"
+}

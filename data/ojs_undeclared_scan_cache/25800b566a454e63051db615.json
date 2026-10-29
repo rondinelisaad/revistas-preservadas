@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.seol.com.br",
+  "representative_url": "http://www.seol.com.br/acaua",
+  "final_url": "http://www.seol.com.br/acaua",
+  "http_status": 520,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 520",
+  "error_detail": "HTTP Error 520: <none>",
+  "checked_at_utc": "2026-10-29T18:31:44.999478+00:00"
+}

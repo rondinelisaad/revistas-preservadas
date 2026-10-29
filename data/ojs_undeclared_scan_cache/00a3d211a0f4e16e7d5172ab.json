@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistadaesmal.tjal.jus.br",
+  "representative_url": "http://revistadaesmal.tjal.jus.br/index.php/revistaEletronicaEsmal/index",
+  "final_url": "https://revistadaesmal.tjal.jus.br/index.php/revistaEletronicaEsmal/index",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Temporarily Unavailable",
+  "checked_at_utc": "2026-10-29T18:15:33.307817+00:00"
+}

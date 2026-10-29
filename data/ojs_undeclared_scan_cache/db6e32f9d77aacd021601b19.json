@@ -1,0 +1,21 @@
+{
+  "instance_key": "fatecrl.edu.br/revistaconecta",
+  "representative_url": "https://fatecrl.edu.br/revistaconecta/index.php/rc",
+  "final_url": "https://fatecrl.edu.br/revistaconecta/index.php/rc",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.1.4",
+  "generator": "Open Journal Systems 3.2.1.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.1.4",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:12:24.409207+00:00"
+}

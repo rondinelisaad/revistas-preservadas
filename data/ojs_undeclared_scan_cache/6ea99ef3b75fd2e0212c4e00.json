@@ -1,0 +1,20 @@
+{
+  "instance_key": "www.revistadireito.ufc.br",
+  "representative_url": "http://www.revistadireito.ufc.br/index.php/revdir",
+  "final_url": "http://www.revistadireito.ufc.br/index.php/revdir",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "2.3.8.0",
+  "generator": "Open Journal Systems 2.3.8.0",
+  "signatures": [
+    "meta generator: Open Journal Systems 2.3.8.0",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:21:21.034594+00:00"
+}

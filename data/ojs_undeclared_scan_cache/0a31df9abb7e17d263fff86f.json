@@ -1,0 +1,21 @@
+{
+  "instance_key": "revistaeixo.ifb.edu.br",
+  "representative_url": "http://revistaeixo.ifb.edu.br/index.php/RevistaEixo",
+  "final_url": "https://revistaeixo.ifb.edu.br/index.php/RevistaEixo",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.3",
+  "generator": "Open Journal Systems 3.4.0.3",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.3",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:22:26.926152+00:00"
+}

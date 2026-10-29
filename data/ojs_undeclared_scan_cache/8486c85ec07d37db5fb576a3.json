@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.resbe.com.br",
+  "representative_url": "https://www.resbe.com.br/index.php/inicio/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:10:58.382266+00:00"
+}

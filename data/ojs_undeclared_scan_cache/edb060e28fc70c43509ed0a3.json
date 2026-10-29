@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revsbau.esalq.usp.br/teste/ojs-2.3.7",
+  "representative_url": "http://www.revsbau.esalq.usp.br/teste/ojs-2.3.7/index.php/REVSBAU/index",
+  "final_url": "http://www.revsbau.esalq.usp.br/teste/ojs-2.3.7/index.php/REVSBAU/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:29:39.009969+00:00"
+}

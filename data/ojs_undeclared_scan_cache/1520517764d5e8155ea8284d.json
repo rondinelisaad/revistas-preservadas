@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.uniabeu.edu.br/publica",
+  "representative_url": "http://www.uniabeu.edu.br/publica/index.php/SFM",
+  "final_url": "https://uniabeu.edu.br/publica/SFM",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:21:23.321226+00:00"
+}

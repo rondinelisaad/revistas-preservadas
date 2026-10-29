@@ -1,0 +1,14 @@
+{
+  "instance_key": "www2.reitoria.uri.br",
+  "representative_url": "http://www2.reitoria.uri.br/~vivencias/",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Erro de conexão",
+  "error_detail": "[Errno 51] Network is unreachable",
+  "checked_at_utc": "2026-10-29T18:30:32.009293+00:00"
+}

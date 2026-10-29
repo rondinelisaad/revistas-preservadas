@@ -1,0 +1,17 @@
+{
+  "instance_key": "publicacoes.ifpa.edu.br",
+  "representative_url": "https://publicacoes.ifpa.edu.br/index.php/rbac/oai",
+  "final_url": "https://publicacoes.ifpa.edu.br/index.php/rbac/oai",
+  "http_status": 200,
+  "content_type": "text/xml;charset=utf-8",
+  "classification": "OJS provável",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "asset /lib/pkp/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:25.590552+00:00"
+}

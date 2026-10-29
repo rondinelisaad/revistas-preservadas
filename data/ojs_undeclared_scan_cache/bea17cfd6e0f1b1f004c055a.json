@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.cadernoseletronicosdisf.com.br",
+  "representative_url": "https://www.cadernoseletronicosdisf.com.br/cedisf",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:12:11.262362+00:00"
+}

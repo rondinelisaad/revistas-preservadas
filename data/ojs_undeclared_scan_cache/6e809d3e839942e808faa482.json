@@ -1,0 +1,21 @@
+{
+  "instance_key": "periodicoscientificos.ufmt.br/outrasfronteiras",
+  "representative_url": "https://periodicoscientificos.ufmt.br/outrasfronteiras/index.php/outrasfronteiras",
+  "final_url": "https://periodicoscientificos.ufmt.br/outrasfronteiras/index.php/outrasfronteiras",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.10",
+  "generator": "Open Journal Systems 3.3.0.10",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.10",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:20:09.487449+00:00"
+}

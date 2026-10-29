@@ -1,0 +1,22 @@
+{
+  "instance_key": "revista.crcmg.org.br",
+  "representative_url": "http://revista.crcmg.org.br/index.php?journal=rmc&page=index",
+  "final_url": "https://revista.crcmg.org.br/rmc",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.12",
+  "generator": "Open Journal Systems 3.3.0.12",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.12",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:16.979119+00:00"
+}

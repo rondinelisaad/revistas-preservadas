@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.oquenosfazpensar.fil.puc-rio.br",
+  "representative_url": "http://www.oquenosfazpensar.fil.puc-rio.br/",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/SSL",
+  "error_detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:32:51.265833+00:00"
+}

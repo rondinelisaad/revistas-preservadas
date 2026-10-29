@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.enap.gov.br",
+  "representative_url": "https://revista.enap.gov.br/index.php/RSP/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/SSL",
+  "error_detail": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:10:54.174585+00:00"
+}

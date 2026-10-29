@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.unifap.br",
+  "representative_url": "https://periodicos.unifap.br/pracs",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+}

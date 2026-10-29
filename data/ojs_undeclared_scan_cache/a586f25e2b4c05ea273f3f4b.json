@@ -1,0 +1,14 @@
+{
+  "instance_key": "escoladocaminho.com/portalee.com.br",
+  "representative_url": "http://escoladocaminho.com/portalee.com.br/index.php/REPC/index",
+  "final_url": "https://escoladocaminho.com/portalee.com.br/index.php/REPC/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:15:10.639171+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "enigma.unb.br",
+  "representative_url": "https://enigma.unb.br/index.php/enigma/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/SSL",
+  "error_detail": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:13:32.286161+00:00"
+}

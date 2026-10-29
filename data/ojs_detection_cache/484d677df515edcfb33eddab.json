@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.unb.br",
+  "representative_url": "http://periodicos.unb.br/index.php/CMD",
+  "final_url": "https://periodicos.unb.br/index.php/CMD",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.4.0.10",
+  "ojs_detected_in_page": true,
+  "version": "3.4.0.10",
+  "evidence": "Open Journal Systems 3.4.0.10",
+  "error": ""
+}

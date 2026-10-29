@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.educacao.rn.gov.br",
+  "representative_url": "http://www.educacao.rn.gov.br/locuseducacional/",
+  "final_url": "http://www.educacao.rn.gov.br/locuseducacional/",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:27:27.864918+00:00"
+}

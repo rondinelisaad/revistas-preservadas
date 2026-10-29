@@ -1,0 +1,20 @@
+{
+  "instance_key": "www.rchunitau.com.br",
+  "representative_url": "http://www.rchunitau.com.br/index.php/rch",
+  "final_url": "https://www.rchunitau.com.br/index.php/rch",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.21",
+  "generator": "Open Journal Systems 3.3.0.21",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.21",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:24:36.590827+00:00"
+}

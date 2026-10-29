@@ -1,0 +1,22 @@
+{
+  "instance_key": "www1.unicap.br/ojs",
+  "representative_url": "https://www1.unicap.br/ojs/index.php/historia",
+  "final_url": "https://periodicos.unicap.br/historia",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.10",
+  "generator": "Open Journal Systems 3.4.0.10",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.10",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:58.910533+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revistaclareira.com.br",
+  "representative_url": "http://www.revistaclareira.com.br/index.php/clareira/index",
+  "final_url": "https://www.revistaclareira.com.br/index.php/clareira/index",
+  "http_status": 526,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 526",
+  "error_detail": "HTTP Error 526: <none>",
+  "checked_at_utc": "2026-10-29T18:18:48.027783+00:00"
+}

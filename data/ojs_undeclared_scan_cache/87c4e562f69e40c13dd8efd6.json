@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.univem.edu.br",
+  "representative_url": "https://revista.univem.edu.br/emtempo",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:17:46.685173+00:00"
+}

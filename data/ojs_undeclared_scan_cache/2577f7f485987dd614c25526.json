@@ -1,0 +1,20 @@
+{
+  "instance_key": "jtni.com.br",
+  "representative_url": "https://jtni.com.br/index.php/JTnI",
+  "final_url": "https://jtni.com.br/index.php/JTnI",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.3",
+  "generator": "Open Journal Systems 3.3.0.3",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.3",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:22.265828+00:00"
+}

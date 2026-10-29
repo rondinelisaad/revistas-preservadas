@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ibrif.org/ojs",
+  "representative_url": "http://www.ibrif.org/ojs/index.php/jofi",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:18:53.909306+00:00"
+}

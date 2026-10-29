@@ -1,0 +1,11 @@
+{
+  "instance_key": "econtents.bc.unicamp.br/inpec",
+  "representative_url": "https://econtents.bc.unicamp.br/inpec/index.php/figura",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+}

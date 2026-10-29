@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.univates.br/revistas",
+  "representative_url": "http://www.univates.br/revistas/index.php/cadped",
+  "final_url": "https://www.univates.br/revistas/index.php/cadped",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:28:10.075579+00:00"
+}

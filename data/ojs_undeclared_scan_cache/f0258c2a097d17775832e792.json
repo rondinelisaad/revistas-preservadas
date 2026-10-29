@@ -1,0 +1,19 @@
+{
+  "instance_key": "www.revistabrasileirademeioambiente.com",
+  "representative_url": "https://www.revistabrasileirademeioambiente.com/index.php/RVBMA/index",
+  "final_url": "https://www.revistabrasileirademeioambiente.com/index.php/RVBMA/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.18",
+  "generator": "Open Journal Systems 3.3.0.18",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.18",
+    "texto Open Journal Systems",
+    "asset /plugins/themes/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:10:54.270318+00:00"
+}

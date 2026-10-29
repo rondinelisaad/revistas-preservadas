@@ -1,0 +1,19 @@
+{
+  "instance_key": "periodicos.unievangelica.edu.br",
+  "representative_url": "https://periodicos.unievangelica.edu.br/index.php/refacer/about",
+  "final_url": "https://periodicos.unievangelica.edu.br/index.php/refacer/about",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS provável",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:21:30.714906+00:00"
+}

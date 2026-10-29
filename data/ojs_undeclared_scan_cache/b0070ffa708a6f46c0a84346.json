@@ -1,0 +1,14 @@
+{
+  "instance_key": "sumario-periodicos.espm.br",
+  "representative_url": "http://sumario-periodicos.espm.br/index.php/seculo21",
+  "final_url": "https://sumario-periodicos.espm.br/seculo21",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:22.556477+00:00"
+}

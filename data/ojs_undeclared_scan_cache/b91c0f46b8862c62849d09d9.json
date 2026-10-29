@@ -1,0 +1,14 @@
+{
+  "instance_key": "fontouraeditora.com.br",
+  "representative_url": "http://fontouraeditora.com.br/periodico/",
+  "final_url": "https://fontouraeditora.com.br/periodico/",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:19:36.679700+00:00"
+}

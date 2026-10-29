@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.sescsp.org.br",
+  "representative_url": "https://www.sescsp.org.br/online/revistas/",
+  "final_url": "https://www.sescsp.org.br/online/revistas/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:19:12.500645+00:00"
+}

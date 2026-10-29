@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.pea.uem.br",
+  "representative_url": "http://www.pea.uem.br/teia/",
+  "final_url": "https://www.pea.uem.br/teia/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:32:33.053665+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "rsa.fcetm.br",
+  "representative_url": "http://rsa.fcetm.br/index.php/revistaeletronica/index",
+  "final_url": "http://rsa.fcetm.br/index.php/revistaeletronica/index",
+  "http_status": 502,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 502",
+  "error_detail": "HTTP Error 502: Bad Gateway",
+  "checked_at_utc": "2026-10-29T18:14:59.872776+00:00"
+}

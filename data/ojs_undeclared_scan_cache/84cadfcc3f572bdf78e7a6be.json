@@ -1,0 +1,20 @@
+{
+  "instance_key": "sistemas.ib.unicamp.br/be310/nova",
+  "representative_url": "https://sistemas.ib.unicamp.br/be310/nova/index.php/be310/index",
+  "final_url": "https://sistemas.ib.unicamp.br/be310/nova/index.php/be310/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "2.4.8.5",
+  "generator": "Open Journal Systems 2.4.8.5",
+  "signatures": [
+    "meta generator: Open Journal Systems 2.4.8.5",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/generic/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:23:52.771242+00:00"
+}

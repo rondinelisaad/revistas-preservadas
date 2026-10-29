@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.poli.usp.br",
+  "representative_url": "http://www.poli.usp.br/PesquisaPoli/Publicacoescpq/ProducaoIC2004-2005/",
+  "final_url": "https://www.poli.usp.br/PesquisaPoli/Publicacoescpq/ProducaoIC2004-2005/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:41.285960+00:00"
+}

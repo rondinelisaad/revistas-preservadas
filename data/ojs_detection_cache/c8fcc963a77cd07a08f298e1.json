@@ -1,0 +1,11 @@
+{
+  "instance_key": "rda.tjam.jus.br/ojs-3",
+  "representative_url": "https://rda.tjam.jus.br/ojs-3/index.php/DireitoAmazonia/index",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error timed out>"
+}

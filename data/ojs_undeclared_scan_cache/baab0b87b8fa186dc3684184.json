@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.fcmmg.br/ojs",
+  "representative_url": "http://revista.fcmmg.br/ojs/index.php/ricm",
+  "final_url": "https://revista.fcmmg.br/ojs/index.php/ricm",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:15:10.943065+00:00"
+}

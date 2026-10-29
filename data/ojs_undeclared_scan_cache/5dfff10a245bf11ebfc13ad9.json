@@ -1,0 +1,21 @@
+{
+  "instance_key": "revista.rebibio.net",
+  "representative_url": "http://revista.rebibio.net/",
+  "final_url": "https://bjbs.com.br/index.php/bjbs",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.17",
+  "generator": "Open Journal Systems 3.3.0.17",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.17",
+    "texto Open Journal Systems",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:19:30.283762+00:00"
+}

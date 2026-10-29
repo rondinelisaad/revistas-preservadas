@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.icp.org.br",
+  "representative_url": "http://www.icp.org.br/revista/cientifica",
+  "final_url": "https://www.ricp.org.br/index.php/revista/en",
+  "http_status": 302,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 302",
+  "error_detail": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily",
+  "checked_at_utc": "2026-10-29T18:11:42.954433+00:00"
+}

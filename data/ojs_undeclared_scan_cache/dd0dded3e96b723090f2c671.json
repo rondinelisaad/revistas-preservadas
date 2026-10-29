@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.abmbrasil.com.br",
+  "representative_url": "http://www.abmbrasil.com.br/portal-tecnologico/portal/revista_tecnologia/default.asp",
+  "final_url": "https://www.abmbrasil.com.br:443/portal-tecnologico/portal/revista_tecnologia/default.asp",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:28:13.428909+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.pragmatizes.uff.br",
+  "representative_url": "http://www.pragmatizes.uff.br/index.php/ojs",
+  "final_url": "http://www.pragmatizes.uff.br/index.php/ojs",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:23:16.936192+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.eca.usp.br",
+  "representative_url": "http://www.eca.usp.br/nucleos/njr/espiral/",
+  "final_url": "https://www.eca.usp.br/nucleos/njr/espiral/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:47.357923+00:00"
+}

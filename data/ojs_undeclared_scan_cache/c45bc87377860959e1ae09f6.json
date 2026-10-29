@@ -1,0 +1,14 @@
+{
+  "instance_key": "wp.ufpel.edu.br",
+  "representative_url": "http://wp.ufpel.edu.br/paralelo31/",
+  "final_url": "https://wp.ufpel.edu.br:443/paralelo31/",
+  "http_status": 410,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 410",
+  "error_detail": "HTTP Error 410: Gone",
+  "checked_at_utc": "2026-10-29T18:19:30.693479+00:00"
+}

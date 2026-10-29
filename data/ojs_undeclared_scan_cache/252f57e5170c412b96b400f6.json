@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.unicamp.br",
+  "representative_url": "https://www.unicamp.br/cmu/sarao/revista40/sarao_indice.html",
+  "final_url": "https://www.unicamp.br/cmu/sarao/revista40/sarao_indice.html",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:50.785304+00:00"
+}

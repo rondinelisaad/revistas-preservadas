@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.diversitates.uff.br",
+  "representative_url": "http://www.diversitates.uff.br/index.php/1diversitates-uff1",
+  "final_url": "https://www.diversitates.uff.br/index.php/1diversitates-uff1",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:27:09.071392+00:00"
+}

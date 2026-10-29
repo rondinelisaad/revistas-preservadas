@@ -1,0 +1,11 @@
+{
+  "instance_key": "es.mpsp.mp.br/revista_esmp",
+  "representative_url": "https://es.mpsp.mp.br/revista_esmp/index.php/RJESMPSP/index",
+  "final_url": "https://es.mpsp.mp.br/revista_esmp/index.php/RJESMPSP/index",
+  "http_status": 403,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "HTTP 403"
+}

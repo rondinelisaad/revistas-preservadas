@@ -1,0 +1,14 @@
+{
+  "instance_key": "veredas.favip.edu.br/ojs",
+  "representative_url": "http://veredas.favip.edu.br/ojs/index.php/veredas1",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:27:03.790210+00:00"
+}

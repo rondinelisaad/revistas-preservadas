@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revistaedugeo.com.br/ojs",
+  "representative_url": "http://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo",
+  "final_url": "https://www.revistaedugeo.com.br/ojs/index.php/revistaedugeo",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:42.008048+00:00"
+}

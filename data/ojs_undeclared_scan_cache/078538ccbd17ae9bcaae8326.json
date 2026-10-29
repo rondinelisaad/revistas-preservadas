@@ -1,0 +1,14 @@
+{
+  "instance_key": "alea.impa.br",
+  "representative_url": "http://alea.impa.br/english/index.htm?language=engl",
+  "final_url": "https://alea.impa.br:443/english/index.htm?language=engl",
+  "http_status": 200,
+  "content_type": "text/html",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:30:04.189789+00:00"
+}

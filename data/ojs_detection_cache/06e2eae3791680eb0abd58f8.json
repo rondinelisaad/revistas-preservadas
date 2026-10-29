@@ -1,0 +1,11 @@
+{
+  "instance_key": "publicacoes.ifba.edu.br",
+  "representative_url": "https://publicacoes.ifba.edu.br/index.php/enlaces",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+}

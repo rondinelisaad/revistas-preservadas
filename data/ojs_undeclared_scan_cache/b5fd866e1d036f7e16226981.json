@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistas.brazcubas.br",
+  "representative_url": "https://revistas.brazcubas.br/index.php/dialogos",
+  "final_url": "https://revistas.brazcubas.br/index.php/dialogos",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:21:20.764807+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "seer.sis.puc-campinas.edu.br/seer",
+  "representative_url": "https://seer.sis.puc-campinas.edu.br/seer/index.php/direitoshumanos",
+  "final_url": "https://seer.sis.puc-campinas.edu.br/seer/index.php/direitoshumanos",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:11:21.832377+00:00"
+}

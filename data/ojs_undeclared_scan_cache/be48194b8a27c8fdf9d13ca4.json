@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.arsveterinaria.org.br",
+  "representative_url": "http://www.arsveterinaria.org.br/index.php/ars",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/SSL",
+  "error_detail": "[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:26:58.533023+00:00"
+}

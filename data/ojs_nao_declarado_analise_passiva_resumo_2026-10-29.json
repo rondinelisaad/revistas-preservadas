@@ -1,0 +1,12 @@
+{
+  "total_sem_declaracao": 3392,
+  "classificacao": {
+    "Não classificado — requer consulta técnica": 2406,
+    "OJS provável — instalação compartilhada com declaração explícita": 850,
+    "Sem URL válida para análise": 136
+  },
+  "com_versao_inferida_de_instalacao_confirmada": 587,
+  "com_indicios_fracos_de_url": 1495,
+  "instalacoes_restantes_para_consulta": 1788,
+  "method_note": "A inferência de alta confiança exige a mesma chave de instalação de uma revista com declaração explícita de OJS. Padrões de URL são apenas indícios e não foram convertidos em confirmação."
+}

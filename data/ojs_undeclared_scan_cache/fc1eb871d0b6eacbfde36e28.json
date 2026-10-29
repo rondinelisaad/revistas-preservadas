@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.facasc.edu.br",
+  "representative_url": "https://revista.facasc.edu.br/ret/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:15:47.417387+00:00"
+}

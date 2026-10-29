@@ -1,0 +1,11 @@
+{
+  "instance_key": "rbsp.sesab.ba.gov.br",
+  "representative_url": "https://rbsp.sesab.ba.gov.br/index.php/rbsp/index",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1082)>"
+}

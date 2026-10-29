@@ -1,0 +1,16 @@
+{
+  "instance_key": "www.escritadahistoria.com",
+  "representative_url": "http://www.escritadahistoria.com/",
+  "final_url": "https://www.escritadahistoria.com/p/index.html",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:54.423493+00:00"
+}

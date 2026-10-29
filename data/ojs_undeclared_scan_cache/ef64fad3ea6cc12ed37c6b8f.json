@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.usp.br",
+  "representative_url": "http://www.usp.br/estetica/",
+  "final_url": "https://www.usp.br:443/estetica/",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:25:24.224003+00:00"
+}

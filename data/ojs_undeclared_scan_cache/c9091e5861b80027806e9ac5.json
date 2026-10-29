@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistapos.cruzeirodosul.edu.br",
+  "representative_url": "http://revistapos.cruzeirodosul.edu.br/index.php/rencima/index",
+  "final_url": "https://revistapos.cruzeirodosul.edu.br/index.php/rencima/index",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:24:15.028587+00:00"
+}

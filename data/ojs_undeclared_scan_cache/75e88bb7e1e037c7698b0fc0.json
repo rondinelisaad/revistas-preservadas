@@ -1,0 +1,14 @@
+{
+  "instance_key": "enit.trabalho.gov.br",
+  "representative_url": "https://enit.trabalho.gov.br/revista/index.php?journal=RevistaEnit",
+  "final_url": "https://www.gov.br:443/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/escola/?journal=RevistaEnit",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:14:09.816662+00:00"
+}

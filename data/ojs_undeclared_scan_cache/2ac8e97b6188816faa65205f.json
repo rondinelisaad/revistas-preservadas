@@ -1,0 +1,22 @@
+{
+  "instance_key": "seer.tupa.unesp.br",
+  "representative_url": "http://seer.tupa.unesp.br",
+  "final_url": "https://seer.cloud.prodb.com.br/BIOENG",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.21",
+  "generator": "Open Journal Systems 3.3.0.21",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.21",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:35.246518+00:00"
+}

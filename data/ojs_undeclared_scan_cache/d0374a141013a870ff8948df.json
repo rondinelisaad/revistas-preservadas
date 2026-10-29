@@ -1,0 +1,14 @@
+{
+  "instance_key": "www9.unaerp.br/revistas",
+  "representative_url": "http://www9.unaerp.br/revistas/index.php/paradigma",
+  "final_url": "https://www9.unaerp.br:443/revistas/index.php/paradigma",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:19:44.290014+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.esef.br/revista",
+  "representative_url": "http://www.esef.br/revista/index.php/pulsar/",
+  "final_url": "https://esef.br/pulsar/",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:26:11.240400+00:00"
+}

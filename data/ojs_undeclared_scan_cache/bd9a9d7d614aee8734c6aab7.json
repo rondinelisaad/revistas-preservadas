@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistaseletronicas.pucrs.br/fo/ojs",
+  "representative_url": "http://revistaseletronicas.pucrs.br/fo/ojs/index.php/fzva",
+  "final_url": "https://revistaseletronicas.pucrs.br/fo/ojs/index.php/fzva",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:27:00.447046+00:00"
+}

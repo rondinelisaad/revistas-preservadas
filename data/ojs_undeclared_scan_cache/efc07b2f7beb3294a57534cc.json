@@ -1,0 +1,14 @@
+{
+  "instance_key": "natture.uca.edu.br",
+  "representative_url": "https://natture.uca.edu.br/index.php/naturae/pt_BR/index",
+  "final_url": "https://natture.uca.edu.br/index.php/naturae/pt_BR/index",
+  "http_status": 302,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 302",
+  "error_detail": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily",
+  "checked_at_utc": "2026-10-29T18:12:52.666889+00:00"
+}

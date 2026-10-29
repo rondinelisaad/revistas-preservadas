@@ -1,0 +1,14 @@
+{
+  "instance_key": "r1.ufrrj.br",
+  "representative_url": "http://r1.ufrrj.br/revistaconti/?s=edicaoAtual",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:20:44.002747+00:00"
+}

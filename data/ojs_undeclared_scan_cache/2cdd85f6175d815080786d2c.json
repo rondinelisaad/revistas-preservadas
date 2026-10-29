@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.rebis.com.br",
+  "representative_url": "https://revista.rebis.com.br/index.php/rebis/index",
+  "final_url": "https://revista.rebis.com.br/index.php/rebis/index",
+  "http_status": 401,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 401",
+  "error_detail": "HTTP Error 401: Unauthorized",
+  "checked_at_utc": "2026-10-29T18:12:55.688143+00:00"
+}

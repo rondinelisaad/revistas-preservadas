@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.uepa.br",
+  "representative_url": "https://periodicos.uepa.br/index.php/comun/",
+  "final_url": "https://periodicos.uepa.br/index.php/comun/",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.5.0.1",
+  "ojs_detected_in_page": true,
+  "version": "3.5.0.1",
+  "evidence": "Open Journal Systems 3.5.0.1",
+  "error": ""
+}

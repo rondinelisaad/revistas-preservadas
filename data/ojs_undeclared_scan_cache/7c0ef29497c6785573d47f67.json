@@ -1,0 +1,21 @@
+{
+  "instance_key": "rcd.pgm.rio",
+  "representative_url": "https://rcd.pgm.rio/",
+  "final_url": "https://rcd.pgm.rio/index.php/rcd",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.3",
+  "generator": "Open Journal Systems 3.4.0.3",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.3",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:17.606552+00:00"
+}

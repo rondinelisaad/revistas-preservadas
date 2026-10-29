@@ -1,0 +1,22 @@
+{
+  "instance_key": "www.portalnepas.org.br",
+  "representative_url": "http://www.portalnepas.org.br/abcshs",
+  "final_url": "https://www.portalnepas.org.br/abcshs",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.21",
+  "generator": "Open Journal Systems 3.3.0.21",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.21",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:19:38.056203+00:00"
+}

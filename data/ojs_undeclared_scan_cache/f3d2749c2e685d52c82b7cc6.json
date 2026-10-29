@@ -1,0 +1,14 @@
+{
+  "instance_key": "publicacoes.unifran.br",
+  "representative_url": "http://publicacoes.unifran.br/index.php/investigacao",
+  "final_url": "https://publicacoes.unifran.br/index.php/investigacao",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:25:02.323104+00:00"
+}

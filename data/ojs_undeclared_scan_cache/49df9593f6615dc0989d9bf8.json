@@ -1,0 +1,14 @@
+{
+  "instance_key": "200.146.104.216:3000/uninorte/revista-direito",
+  "representative_url": "http://200.146.104.216:3000/UNINORTE/REVISTA-DIREITO/index.php/sensus",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:24:06.394604+00:00"
+}

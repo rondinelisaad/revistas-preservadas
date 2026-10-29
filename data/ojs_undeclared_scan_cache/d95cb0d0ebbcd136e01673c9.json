@@ -1,0 +1,20 @@
+{
+  "instance_key": "revistas.unibh.br",
+  "representative_url": "http://revistas.unibh.br/index.php/dcet",
+  "final_url": "https://portaldeperiodicos.animaeducacao.com.br/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.4",
+  "generator": "Open Journal Systems 3.4.0.4",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.4",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:27:03.969757+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "instance_key": "www.ipea.gov.br/revistas",
+  "representative_url": "https://www.ipea.gov.br/revistas/index.php/rtm",
+  "final_url": "https://www.ipea.gov.br/revistas/index.php/rtm",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.5",
+  "generator": "Open Journal Systems 3.4.0.5",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.5",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:09:40.853812+00:00"
+}

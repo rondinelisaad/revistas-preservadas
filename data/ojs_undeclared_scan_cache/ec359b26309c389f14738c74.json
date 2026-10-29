@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.esmarn.tjrn.jus.br/revistas",
+  "representative_url": "http://www.esmarn.tjrn.jus.br/revistas/index.php/revista_direito_e_liberdade",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:25:26.110520+00:00"
+}

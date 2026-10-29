@@ -1,0 +1,22 @@
+{
+  "instance_key": "revistas.fmp.edu.br",
+  "representative_url": "https://revistas.fmp.edu.br/index.php/FMP-Revista",
+  "final_url": "https://revistas.fmp.edu.br/index.php/FMP-Revista",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.1.0.0",
+  "generator": "Open Journal Systems 3.1.0.0",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.1.0.0",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:16:14.337973+00:00"
+}

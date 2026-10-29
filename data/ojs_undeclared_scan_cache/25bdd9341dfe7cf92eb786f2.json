@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.presidentekennedy.br",
+  "representative_url": "http://www.presidentekennedy.br/retur/index.html",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:31:54.609098+00:00"
+}

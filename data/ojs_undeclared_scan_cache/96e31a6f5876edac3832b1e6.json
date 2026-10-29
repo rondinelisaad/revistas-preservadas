@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ibot.sp.gov.br",
+  "representative_url": "http://www.ibot.sp.gov.br/publicacoes/hoehnea/sobre_hoehnea.php",
+  "final_url": "http://www.ibot.sp.gov.br/publicacoes/hoehnea/sobre_hoehnea.php",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: OK",
+  "checked_at_utc": "2026-10-29T18:23:22.961210+00:00"
+}

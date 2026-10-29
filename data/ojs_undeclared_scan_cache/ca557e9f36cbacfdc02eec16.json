@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.df.senac.br",
+  "representative_url": "https://www.df.senac.br/faculdade/revista-educacao-profissional-cat/",
+  "final_url": "https://www.df.senac.br/faculdade/revista-educacao-profissional-cat/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:29:37.884717+00:00"
+}

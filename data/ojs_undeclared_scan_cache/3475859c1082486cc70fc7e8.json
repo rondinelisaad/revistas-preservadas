@@ -1,0 +1,14 @@
+{
+  "instance_key": "portal.estacio.br",
+  "representative_url": "http://portal.estacio.br/quem-somos/revista-estacao-cientifica/apresentacao/",
+  "final_url": "https://estacio.br/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:30:40.992339+00:00"
+}

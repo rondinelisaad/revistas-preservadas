@@ -1,0 +1,19 @@
+{
+  "instance_key": "revistas.cbpf.br",
+  "representative_url": "http://revistas.cbpf.br/index.php/cs",
+  "final_url": "https://revistas.cbpf.br/index.php/cs",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.14",
+  "generator": "Open Journal Systems 3.3.0.14",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.14",
+    "texto Open Journal Systems",
+    "asset /plugins/themes/",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:02.646131+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www4.pucsp.br",
+  "representative_url": "http://www4.pucsp.br/gepi/revista.html",
+  "final_url": "https://www5.pucsp.br/gepi/revista.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:24:37.307193+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "periodicos.unb.br/ojs248",
+  "representative_url": "http://periodicos.unb.br/ojs248/index.php/enedex",
+  "final_url": "http://periodicos.unb.br/ojs248/index.php/enedex",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:23:18.396902+00:00"
+}

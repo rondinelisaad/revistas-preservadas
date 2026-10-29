@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.uff.br",
+  "representative_url": "http://periodicos.uff.br/ayvu",
+  "final_url": "https://periodicos.uff.br/ayvu",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.4.6.2",
+  "ojs_detected_in_page": true,
+  "version": "3.4.6.2",
+  "evidence": "Open Journal Systems 3.4.6.2",
+  "error": ""
+}

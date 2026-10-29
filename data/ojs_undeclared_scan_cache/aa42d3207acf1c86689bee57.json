@@ -1,0 +1,14 @@
+{
+  "instance_key": "www4.fsanet.com.br/revista",
+  "representative_url": "http://www4.fsanet.com.br/revista/index.php/saudeemfoco/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:19:09.257782+00:00"
+}

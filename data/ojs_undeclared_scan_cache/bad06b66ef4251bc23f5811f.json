@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.cefaprosinop.com.br/site/periodicos",
+  "representative_url": "http://www.cefaprosinop.com.br/site/periodicos/index.php/reenoma/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:16:24.856963+00:00"
+}

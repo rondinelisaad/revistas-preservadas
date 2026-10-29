@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.faculdadespontagrossa.com.br/revistas",
+  "representative_url": "http://www.faculdadespontagrossa.com.br/revistas/index.php/technoeng",
+  "final_url": "http://www.faculdadespontagrossa.com.br/revistas/index.php/technoeng",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:24:58.337855+00:00"
+}

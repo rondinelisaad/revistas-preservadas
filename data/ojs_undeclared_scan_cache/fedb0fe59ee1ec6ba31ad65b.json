@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistascientificas.ifrj.edu.br:8080/revista",
+  "representative_url": "http://revistascientificas.ifrj.edu.br:8080/revista/index.php/reci/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:26:03.704574+00:00"
+}

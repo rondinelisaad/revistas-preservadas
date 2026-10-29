@@ -1,0 +1,14 @@
+{
+  "instance_key": "websensors.net.br/seer",
+  "representative_url": "http://websensors.net.br/seer/index.php/guavira/index",
+  "final_url": "http://websensors.net.br/seer/index.php/guavira/index",
+  "http_status": 500,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 500",
+  "error_detail": "HTTP Error 500: Internal Server Error",
+  "checked_at_utc": "2026-10-29T18:30:02.945265+00:00"
+}

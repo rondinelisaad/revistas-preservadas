@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistapluri.cruzeirodosulvirtual.com.br",
+  "representative_url": "http://revistapluri.cruzeirodosulvirtual.com.br/index.php/pluri/index",
+  "final_url": "https://revistapluri.cruzeirodosulvirtual.com.br/index.php/pluri/index",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:11:41.645953+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "instance_key": "socibracom.com/bjmb",
+  "representative_url": "https://socibracom.com/bjmb/index.php/bjmb",
+  "final_url": "https://socibracom.com/bjmb/index.php/bjmb",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.20",
+  "generator": "Open Journal Systems 3.3.0.20",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.20",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:30.925940+00:00"
+}

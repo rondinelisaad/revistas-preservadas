@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.journals.elsevier.com",
+  "representative_url": "https://www.journals.elsevier.com/economia/",
+  "final_url": "https://www.sciencedirect.com/browse/journals-and-books",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:16:15.346015+00:00"
+}

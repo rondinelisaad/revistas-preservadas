@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.uninove.br",
+  "representative_url": "http://www.uninove.br/revistacenarios",
+  "final_url": "https://www.uninove.br/revistacenarios",
+  "http_status": 503,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 503",
+  "error_detail": "HTTP Error 503: Service Unavailable",
+  "checked_at_utc": "2026-10-29T18:27:29.655434+00:00"
+}

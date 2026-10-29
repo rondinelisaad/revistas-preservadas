@@ -1,0 +1,21 @@
+{
+  "instance_key": "www.sadsj.org",
+  "representative_url": "http://www.sadsj.org/index.php/revista/index",
+  "final_url": "http://www.sadsj.org/index.php/revista/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.18",
+  "generator": "Open Journal Systems 3.3.0.18",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.18",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:28.208040+00:00"
+}

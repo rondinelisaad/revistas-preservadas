@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.revista.direitofranca.br",
+  "representative_url": "http://www.revista.direitofranca.br/index.php/refdf",
+  "final_url": "http://www.revista.direitofranca.br/index.php/refdf",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:12:25.034634+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.faccar.com.br",
+  "representative_url": "http://www.faccar.com.br/drevista/",
+  "final_url": "https://www.faccar.com.br/drevista/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:47.867893+00:00"
+}

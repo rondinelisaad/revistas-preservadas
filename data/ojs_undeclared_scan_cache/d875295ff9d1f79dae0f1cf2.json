@@ -1,0 +1,21 @@
+{
+  "instance_key": "www.journalamb.com",
+  "representative_url": "http://www.journalamb.com/index.php/jamb",
+  "final_url": "https://www.journalamb.com/index.php/jamb",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.1.1",
+  "generator": "Open Journal Systems 3.2.1.1",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.1.1",
+    "texto Open Journal Systems",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:13:40.717192+00:00"
+}

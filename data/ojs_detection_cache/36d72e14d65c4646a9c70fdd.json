@@ -1,0 +1,11 @@
+{
+  "instance_key": "periodicos.ufpe.br",
+  "representative_url": "https://periodicos.ufpe.br/revistas/jpm",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [Errno 61] Connection refused>"
+}

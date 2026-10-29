@@ -1,0 +1,14 @@
+{
+  "instance_key": "periodicos.incubadora.ufsc.br",
+  "representative_url": "http://periodicos.incubadora.ufsc.br/index.php/IJKEM/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Erro de conexão",
+  "error_detail": "[Errno 51] Network is unreachable",
+  "checked_at_utc": "2026-10-29T18:21:46.693942+00:00"
+}

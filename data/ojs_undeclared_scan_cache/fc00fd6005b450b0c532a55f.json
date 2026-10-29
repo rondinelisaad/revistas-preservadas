@@ -1,0 +1,22 @@
+{
+  "instance_key": "revistaeletronicardfd.unibrasil.com.br",
+  "representative_url": "http://revistaeletronicardfd.unibrasil.com.br/index.php/rdfd",
+  "final_url": "https://revistaeletronicardfd.unibrasil.com.br/index.php/rdfd",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.14",
+  "generator": "Open Journal Systems 3.3.0.14",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.14",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:28:35.249915+00:00"
+}

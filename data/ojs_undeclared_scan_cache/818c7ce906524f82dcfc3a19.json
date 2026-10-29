@@ -1,0 +1,14 @@
+{
+  "instance_key": "interfacesdesaberes.fafica-pe.edu.br",
+  "representative_url": "https://interfacesdesaberes.fafica-pe.edu.br/index.php/import1/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Conexão recusada",
+  "error_detail": "[Errno 61] Connection refused",
+  "checked_at_utc": "2026-10-29T18:29:12.197950+00:00"
+}

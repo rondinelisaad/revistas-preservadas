@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.unati.uerj.br",
+  "representative_url": "http://revista.unati.uerj.br/scielo.php?script=sci_serial&pid=1809-9823&lng=pt&nrm=iso",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Timeout",
+  "error_detail": "timed out",
+  "checked_at_utc": "2026-10-29T18:29:18.153015+00:00"
+}

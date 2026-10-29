@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.multiplosacessos.com",
+  "representative_url": "http://www.multiplosacessos.com",
+  "final_url": "https://www.multiplosacessos.com/index.php/index/en",
+  "http_status": 400,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 400",
+  "error_detail": "HTTP Error 400: Bad Request",
+  "checked_at_utc": "2026-10-29T18:15:11.306712+00:00"
+}

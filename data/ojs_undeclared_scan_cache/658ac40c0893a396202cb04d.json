@@ -1,0 +1,14 @@
+{
+  "instance_key": "revista.uniandrade.br",
+  "representative_url": "https://revista.uniandrade.br/index.php/ScriptaAlumni/index",
+  "final_url": "https://revista.uniandrade.br/index.php/ScriptaAlumni/index",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:09:50.987208+00:00"
+}

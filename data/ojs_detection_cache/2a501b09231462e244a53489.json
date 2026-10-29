@@ -1,0 +1,11 @@
+{
+  "instance_key": "revistas.pucsp.br",
+  "representative_url": "https://revistas.pucsp.br/ls",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "TimeoutError: The read operation timed out"
+}

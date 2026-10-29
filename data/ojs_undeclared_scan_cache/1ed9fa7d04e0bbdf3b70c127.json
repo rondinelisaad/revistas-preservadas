@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.pucsp.br",
+  "representative_url": "http://www.pucsp.br/revistaaurora/",
+  "final_url": "https://www4.pucsp.br:443/revistaaurora/",
+  "http_status": 200,
+  "content_type": "text/html",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:26:03.354374+00:00"
+}

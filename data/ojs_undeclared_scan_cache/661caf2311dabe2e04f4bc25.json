@@ -1,0 +1,19 @@
+{
+  "instance_key": "revistas.unievangelica.edu.br",
+  "representative_url": "http://revistas.unievangelica.edu.br/index.php/educacaoemsaude",
+  "final_url": "https://periodicos.unievangelica.edu.br/index.php/educacaoemsaude",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS provável",
+  "version": "",
+  "generator": "",
+  "signatures": [
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:17:22.342306+00:00"
+}

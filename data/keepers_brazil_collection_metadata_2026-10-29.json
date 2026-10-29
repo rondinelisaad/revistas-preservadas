@@ -1,0 +1,83 @@
+{
+  "source": "https://keepers.issn.org/advancedsearch",
+  "source_country_filter": "Brazil",
+  "source_requires_keeper": true,
+  "collected_at_utc": "2026-10-29T17:48:40.305053+00:00",
+  "crawl_delay_seconds": 10.5,
+  "page_size": 100,
+  "unique_preserved_issns": 3039,
+  "agency_facets": [
+    {
+      "facet": "Cariniana Network",
+      "agency": "Cariniana Network",
+      "expected_records": 2274,
+      "unique_issns_collected": 2274
+    },
+    {
+      "facet": "Public Knowledge Project PLN",
+      "agency": "Public Knowledge Project PLN",
+      "expected_records": 1129,
+      "unique_issns_collected": 1129
+    },
+    {
+      "facet": "Internet Archive",
+      "agency": "Internet Archive",
+      "expected_records": 170,
+      "unique_issns_collected": 170
+    },
+    {
+      "facet": "Portico",
+      "agency": "Portico",
+      "expected_records": 65,
+      "unique_issns_collected": 65
+    },
+    {
+      "facet": "National Library of the Netherlands",
+      "agency": "National Library of the Netherlands",
+      "expected_records": 60,
+      "unique_issns_collected": 60
+    },
+    {
+      "facet": "LOCKSS Archive",
+      "agency": "LOCKSS Archive",
+      "expected_records": 33,
+      "unique_issns_collected": 33
+    },
+    {
+      "facet": "<![CDATA[National Digital Preservation Program, China]]>",
+      "agency": "National Digital Preservation Program, China",
+      "expected_records": 18,
+      "unique_issns_collected": 18
+    },
+    {
+      "facet": "HathiTrust",
+      "agency": "HathiTrust",
+      "expected_records": 17,
+      "unique_issns_collected": 17
+    },
+    {
+      "facet": "Library of Congress",
+      "agency": "Library of Congress",
+      "expected_records": 15,
+      "unique_issns_collected": 15
+    },
+    {
+      "facet": "National Digital Preservation Program, China",
+      "agency": "National Digital Preservation Program, China",
+      "expected_records": 11,
+      "unique_issns_collected": 11
+    },
+    {
+      "facet": "ZBW - Leibniz Information Centre for Economics",
+      "agency": "ZBW - Leibniz Information Centre for Economics",
+      "expected_records": 6,
+      "unique_issns_collected": 6
+    },
+    {
+      "facet": "Scholars Portal",
+      "agency": "Scholars Portal",
+      "expected_records": 1,
+      "unique_issns_collected": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.jmoe.org",
+  "representative_url": "http://www.jmoe.org/index.php/jmoe/index",
+  "final_url": "https://www.scielo.br/j/jmoea/index.php/jmoe/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: NOT FOUND",
+  "checked_at_utc": "2026-10-29T18:32:46.371893+00:00"
+}

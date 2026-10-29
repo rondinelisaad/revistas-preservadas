@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.faema.edu.br/revistas",
+  "representative_url": "http://www.faema.edu.br/revistas/index.php/Revista-FAEMA/index",
+  "final_url": "http://www.faema.edu.br/revistas/index.php/Revista-FAEMA/index",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:24:15.851020+00:00"
+}

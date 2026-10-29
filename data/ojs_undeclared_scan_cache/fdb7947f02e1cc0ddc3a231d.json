@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.insite.pro.br",
+  "representative_url": "http://www.insite.pro.br/Revistemática.htm",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "UnicodeEncodeError",
+  "error_detail": "'ascii' codec can't encode character '\\xe1' in position 13: ordinal not in range(128)",
+  "checked_at_utc": "2026-10-29T18:31:02.823338+00:00"
+}

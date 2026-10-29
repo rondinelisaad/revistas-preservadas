@@ -1,0 +1,11 @@
+{
+  "instance_key": "revistas.unisa.br",
+  "representative_url": "https://revistas.unisa.br/index.php/veredas",
+  "final_url": "https://periodicos.unisa.br:443/index.php/veredas",
+  "http_status": 200,
+  "generator": "Open Journal Systems 3.2.1.1",
+  "ojs_detected_in_page": true,
+  "version": "3.2.1.1",
+  "evidence": "Open Journal Systems 3.2.1.1",
+  "error": ""
+}

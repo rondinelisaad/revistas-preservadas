@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.ourinhos.unesp.br/seer",
+  "representative_url": "http://www.ourinhos.unesp.br/seer/index.php/geografiaepesquisa/index",
+  "final_url": "https://www.ourinhos.unesp.br/#!/seer/index.php/geografiaepesquisa/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "classification": "OJS não identificado",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:31:11.623551+00:00"
+}

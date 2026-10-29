@@ -1,0 +1,11 @@
+{
+  "instance_key": "www.saocamilo-es.br/revista",
+  "representative_url": "https://www.saocamilo-es.br/revista/index.php/cadernoscamilliani/",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+}

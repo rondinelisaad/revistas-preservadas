@@ -1,0 +1,14 @@
+{
+  "instance_key": "interlocucao.loyola.g12.br",
+  "representative_url": "http://interlocucao.loyola.g12.br",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:26:33.720196+00:00"
+}

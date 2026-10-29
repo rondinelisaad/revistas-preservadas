@@ -1,0 +1,21 @@
+{
+  "instance_key": "www.seer.ufu.br",
+  "representative_url": "http://www.seer.ufu.br/index.php/cdhis",
+  "final_url": "https://seer.ufu.br/index.php/cdhis",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.11",
+  "generator": "Open Journal Systems 3.4.0.11",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.11",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:12:19.021177+00:00"
+}

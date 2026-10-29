@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.cro-pe.org.br",
+  "representative_url": "http://www.cro-pe.org.br/site/index.php?option=com_content&view=article&id=7&Itemid=13",
+  "final_url": "https://www.cro-pe.org.br/site/index.php?option=com_content&view=article&id=7&Itemid=13",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:31:50.206993+00:00"
+}

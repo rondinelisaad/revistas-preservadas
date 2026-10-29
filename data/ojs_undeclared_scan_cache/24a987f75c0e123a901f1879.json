@@ -1,0 +1,22 @@
+{
+  "instance_key": "portaldeperiodicos.ifma.edu.br",
+  "representative_url": "https://portaldeperiodicos.ifma.edu.br/index.php/actatecnologica/",
+  "final_url": "https://periodicos.ifma.edu.br/index.php/actatecnologica/",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.8",
+  "generator": "Open Journal Systems 3.3.0.8",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.8",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:23:46.217886+00:00"
+}

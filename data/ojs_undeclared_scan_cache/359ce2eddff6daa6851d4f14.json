@@ -1,0 +1,14 @@
+{
+  "instance_key": "periodicos.urca.br/ojs",
+  "representative_url": "http://periodicos.urca.br/ojs/index.php/rcn",
+  "final_url": "https://periodicos.urca.br/ojs/index.php/rcn",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:11:40.877755+00:00"
+}

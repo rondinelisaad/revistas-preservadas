@@ -1,0 +1,22 @@
+{
+  "instance_key": "www.globalacademicnursing.com",
+  "representative_url": "http://www.globalacademicnursing.com/index.php/globacadnurs",
+  "final_url": "https://www.globalacademicnursing.com/index.php/globacadnurs",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.5",
+  "generator": "Open Journal Systems 3.3.0.5",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.5",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:11:42.263556+00:00"
+}

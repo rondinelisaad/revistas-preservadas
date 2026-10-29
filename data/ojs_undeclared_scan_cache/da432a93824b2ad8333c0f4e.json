@@ -1,0 +1,20 @@
+{
+  "instance_key": "www.bbronline.com.br",
+  "representative_url": "http://www.bbronline.com.br/?lang=en",
+  "final_url": "https://www.bbronline.com.br/index.php/bbr",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "",
+  "generator": "Brazilian Business Review - Open Journal Systems Hosting and Support by: OpenJournalSystems.com",
+  "signatures": [
+    "meta generator: Brazilian Business Review - Open Journal Systems Hosting and Support by: OpenJournalSystems.com",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:30:56.790297+00:00"
+}

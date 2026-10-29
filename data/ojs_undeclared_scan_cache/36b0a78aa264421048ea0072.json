@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.periodicos.ufes.br",
+  "representative_url": "https://www.periodicos.ufes.br/snpgcs/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/certificado inválido",
+  "error_detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.periodicos.ufes.br'. (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:23:15.298696+00:00"
+}

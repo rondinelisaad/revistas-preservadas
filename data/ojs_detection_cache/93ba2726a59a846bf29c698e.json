@@ -1,0 +1,11 @@
+{
+  "instance_key": "revistacorpusetscientia.unisuam.edu.br",
+  "representative_url": "https://revistacorpusetscientia.unisuam.edu.br/",
+  "final_url": "",
+  "http_status": null,
+  "generator": "",
+  "ojs_detected_in_page": false,
+  "version": "",
+  "evidence": "",
+  "error": "URLError: <urlopen error timed out>"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "revistadadpu.dpu.def.br",
+  "representative_url": "https://revistadadpu.dpu.def.br/index.php/revistadadpu",
+  "final_url": "https://revistadadpu.dpu.def.br/index.php/revistadadpu",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:16:13.786297+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "instance_key": "submissoes.al.rs.gov.br",
+  "representative_url": "http://submissoes.al.rs.gov.br/index.php/estudos_legislativos/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Erro de conexão",
+  "error_detail": "[Errno 65] No route to host",
+  "checked_at_utc": "2026-10-29T18:22:58.846339+00:00"
+}

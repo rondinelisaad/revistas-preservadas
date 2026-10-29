@@ -1,0 +1,21 @@
+{
+  "instance_key": "periodicos.cesg.edu.br",
+  "representative_url": "http://periodicos.cesg.edu.br/index.php/folhaacademica",
+  "final_url": "https://periodicos.cesg.edu.br/index.php/folhaacademica",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.4.0.8",
+  "generator": "Open Journal Systems 3.4.0.8",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.4.0.8",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:18:29.788716+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "instance_key": "www.boletimmbml.net/boletim",
+  "representative_url": "http://www.boletimmbml.net/boletim/index.php/boletim_mbml/index",
+  "final_url": "https://www.boletimmbml.net/boletim/index_php/boletim_mbml/index.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "classification": "OJS confirmado",
+  "version": "2.3.7.0",
+  "generator": "Open Journal Systems 2.3.7.0",
+  "signatures": [
+    "meta generator: Open Journal Systems 2.3.7.0",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:19:41.718078+00:00"
+}

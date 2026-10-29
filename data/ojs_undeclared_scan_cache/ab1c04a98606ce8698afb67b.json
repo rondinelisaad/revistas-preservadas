@@ -1,0 +1,14 @@
+{
+  "instance_key": "letras.ufpel.edu.br",
+  "representative_url": "http://letras.ufpel.edu.br/verbavolant/",
+  "final_url": "https://letras.ufpel.edu.br:443/verbavolant/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:24:52.937179+00:00"
+}

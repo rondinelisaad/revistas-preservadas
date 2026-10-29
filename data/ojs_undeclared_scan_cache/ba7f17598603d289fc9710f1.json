@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.direito.ufmg.br/revista",
+  "representative_url": "https://www.direito.ufmg.br/revista/index.php/revista",
+  "final_url": "https://www.direito.ufmg.br/revista/index.php/revista",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:09:38.164322+00:00"
+}

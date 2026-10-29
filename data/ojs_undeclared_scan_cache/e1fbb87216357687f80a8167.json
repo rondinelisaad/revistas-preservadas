@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.fcr.edu.br/revista",
+  "representative_url": "http://www.fcr.edu.br/revista/index.php/saberesamazonia/index",
+  "final_url": "http://fcr.edu.br/revista/saberesamazonia/index",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:16:51.830828+00:00"
+}

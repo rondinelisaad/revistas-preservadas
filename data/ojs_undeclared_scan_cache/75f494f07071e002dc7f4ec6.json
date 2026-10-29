@@ -1,0 +1,14 @@
+{
+  "instance_key": "periodicos.ifal.edu.br",
+  "representative_url": "https://periodicos.ifal.edu.br/educte",
+  "final_url": "https://periodicos.ifal.edu.br/educte",
+  "http_status": 403,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 403",
+  "error_detail": "HTTP Error 403: Forbidden",
+  "checked_at_utc": "2026-10-29T18:22:12.264438+00:00"
+}

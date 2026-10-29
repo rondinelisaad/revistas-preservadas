@@ -1,0 +1,22 @@
+{
+  "instance_key": "revistaprincipios.emnuvens.com.br",
+  "representative_url": "https://revistaprincipios.emnuvens.com.br/",
+  "final_url": "https://revistaprincipios.emnuvens.com.br/principios",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.3.0.19",
+  "generator": "Open Journal Systems 3.3.0.19",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.3.0.19",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:11:38.585967+00:00"
+}

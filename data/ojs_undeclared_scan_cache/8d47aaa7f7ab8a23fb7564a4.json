@@ -1,0 +1,14 @@
+{
+  "instance_key": "phprbraem.com.br/ojs",
+  "representative_url": "https://phprbraem.com.br/ojs/index.php/RBRAEM",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "TLS/SSL",
+  "error_detail": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+  "checked_at_utc": "2026-10-29T18:13:15.480050+00:00"
+}

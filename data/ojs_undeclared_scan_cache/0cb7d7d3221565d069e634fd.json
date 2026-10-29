@@ -1,0 +1,14 @@
+{
+  "instance_key": "apps.iesb.br",
+  "representative_url": "http://apps.iesb.br/revistadedireito/Revista-do-Observat%C3%B3rio-de-Direitos-Humanos.php",
+  "final_url": "https://apps.iesb.br/revistadedireito/Revista-do-Observat%c3%b3rio-de-Direitos-Humanos.php",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:16:30.063750+00:00"
+}

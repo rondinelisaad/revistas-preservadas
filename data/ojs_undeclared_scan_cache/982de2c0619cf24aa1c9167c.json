@@ -1,0 +1,14 @@
+{
+  "instance_key": "e-oftalmo.cbo.com.br",
+  "representative_url": "http://e-oftalmo.cbo.com.br/",
+  "final_url": "http://e-oftalmo.cbo.com.br/",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:18:43.270913+00:00"
+}

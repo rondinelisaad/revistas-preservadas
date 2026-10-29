@@ -1,0 +1,14 @@
+{
+  "instance_key": "www.parthenon.esp.br",
+  "representative_url": "http://www.parthenon.esp.br/revistacienciaonline/",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "DNS não resolvido",
+  "error_detail": "[Errno 8] nodename nor servname provided, or not known",
+  "checked_at_utc": "2026-10-29T18:31:57.980960+00:00"
+}

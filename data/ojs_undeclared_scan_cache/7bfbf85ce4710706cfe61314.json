@@ -1,0 +1,22 @@
+{
+  "instance_key": "revistacafecomsociologia.com/revista",
+  "representative_url": "https://revistacafecomsociologia.com/revista/index.php/revista/index",
+  "final_url": "https://revistacafecomsociologia.com/revista/index.php/revista/index",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "classification": "OJS confirmado",
+  "version": "3.2.1.2",
+  "generator": "Open Journal Systems 3.2.1.2",
+  "signatures": [
+    "meta generator: Open Journal Systems 3.2.1.2",
+    "texto Open Journal Systems",
+    "asset /lib/pkp/",
+    "asset /plugins/themes/",
+    "asset /plugins/generic/",
+    "classe HTML pkp_*",
+    "cookie OJSSID"
+  ],
+  "network_error": "",
+  "error_detail": "",
+  "checked_at_utc": "2026-10-29T18:10:52.668760+00:00"
+}

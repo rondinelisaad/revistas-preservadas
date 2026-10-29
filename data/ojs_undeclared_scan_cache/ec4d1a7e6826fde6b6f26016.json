@@ -1,0 +1,14 @@
+{
+  "instance_key": "ojs.saomarcos.org.br/ojs",
+  "representative_url": "http://ojs.saomarcos.org.br/ojs/index.php/cientifica",
+  "final_url": "http://ojs.saomarcos.org.br/ojs/index.php/cientifica",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:20:55.621655+00:00"
+}

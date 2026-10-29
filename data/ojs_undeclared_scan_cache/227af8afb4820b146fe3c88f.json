@@ -1,0 +1,14 @@
+{
+  "instance_key": "omnipax.com.br/ojs",
+  "representative_url": "http://omnipax.com.br/ojs/index.php/RBTS",
+  "final_url": "https://omnipax.com.br/ojs/index.php/RBTS",
+  "http_status": 404,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "HTTP 404",
+  "error_detail": "HTTP Error 404: Not Found",
+  "checked_at_utc": "2026-10-29T18:25:03.056170+00:00"
+}

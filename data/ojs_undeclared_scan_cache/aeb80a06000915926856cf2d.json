@@ -1,0 +1,14 @@
+{
+  "instance_key": "www2.ifma.edu.br/revistainnover/nova",
+  "representative_url": "http://www2.ifma.edu.br/revistainnover/Nova/index.php/inicio/index",
+  "final_url": "",
+  "http_status": null,
+  "content_type": "",
+  "classification": "Acesso não concluído",
+  "version": "",
+  "generator": "",
+  "signatures": [],
+  "network_error": "Erro de conexão",
+  "error_detail": "[Errno 51] Network is unreachable",
+  "checked_at_utc": "2026-10-29T18:16:18.859119+00:00"
+}
