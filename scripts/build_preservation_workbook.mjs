@@ -99,7 +99,33 @@ const ojsVersionRows = [
 ];
 resumo.getRange(`M18:N${17 + ojsVersionRows.length}`).values = ojsVersionRows;
 
-for (const header of ["A6:B6", "D6:H6", "A14:B14", "D14:E14", "J6:K6", "M6:N6", "J18:K18", "M18:N18"]) {
+const ojsPreservationRows = [
+  ["Classificação OJS", "Total", "Preservadas", "% preservadas", "2+ agências"],
+  ...summary.ojs_summary.preservation_by_classification.map((row) => [
+    row.classificacao,
+    row.total,
+    row.preservadas,
+    row.percentual_preservadas,
+    row.com_duas_ou_mais_agencias,
+  ]),
+  [
+    "Total identificado como OJS",
+    summary.ojs_summary.identified_total,
+    summary.ojs_summary.identified_preserved,
+    summary.ojs_summary.identified_preserved_percentage,
+    summary.ojs_summary.identified_with_two_or_more_agencies,
+  ],
+  [
+    "Critério estrito: declarado + confirmado",
+    summary.ojs_summary.strict_total,
+    summary.ojs_summary.strict_preserved,
+    summary.ojs_summary.strict_preserved_percentage,
+    "",
+  ],
+];
+resumo.getRange(`D27:H${26 + ojsPreservationRows.length}`).values = ojsPreservationRows;
+
+for (const header of ["A6:B6", "D6:H6", "A14:B14", "D14:E14", "J6:K6", "M6:N6", "J18:K18", "M18:N18", "D27:H27"]) {
   resumo.getRange(header).format = {
     fill: dark,
     font: { name: fontFamily, size: 10, bold: true, color: "#FFFFFF" },
@@ -127,6 +153,9 @@ resumo.getRange(`K7:K${5 + ojsUseRows.length}`).format.numberFormat = "#,##0";
 resumo.getRange(`N7:N${5 + ojsVerificationRows.length}`).format.numberFormat = "#,##0";
 resumo.getRange(`K19:K${17 + ojsFamilyRows.length}`).format.numberFormat = "#,##0";
 resumo.getRange(`N19:N${17 + ojsVersionRows.length}`).format.numberFormat = "#,##0";
+resumo.getRange(`E28:F${26 + ojsPreservationRows.length}`).format.numberFormat = "#,##0";
+resumo.getRange(`G28:G${26 + ojsPreservationRows.length}`).format.numberFormat = "0.0%";
+resumo.getRange(`H28:H${26 + ojsPreservationRows.length}`).format.numberFormat = "#,##0";
 resumo.getRange("A6:B11").format.borders = { preset: "outside", style: "thin", color: "#B4C7E7" };
 resumo.getRange("D6:H8").format.borders = { preset: "outside", style: "thin", color: "#B4C7E7" };
 resumo.getRange(`A14:B${13 + distributionRows.length}`).format.borders = { preset: "outside", style: "thin", color: "#D9E2F3" };
@@ -135,6 +164,14 @@ resumo.getRange(`J6:K${5 + ojsUseRows.length}`).format.borders = { preset: "outs
 resumo.getRange(`M6:N${5 + ojsVerificationRows.length}`).format.borders = { preset: "outside", style: "thin", color: "#B4C7E7" };
 resumo.getRange(`J18:K${17 + ojsFamilyRows.length}`).format.borders = { preset: "outside", style: "thin", color: "#D9E2F3" };
 resumo.getRange(`M18:N${17 + ojsVersionRows.length}`).format.borders = { preset: "outside", style: "thin", color: "#D9E2F3" };
+resumo.getRange(`D27:H${26 + ojsPreservationRows.length}`).format.borders = { preset: "outside", style: "thin", color: "#B4C7E7" };
+resumo.getRange(`D28:H${26 + ojsPreservationRows.length}`).format.font = { name: fontFamily, size: 10, color: "#1F1F1F" };
+resumo.getRange(`D${25 + ojsPreservationRows.length}:H${26 + ojsPreservationRows.length}`).format.font = {
+  name: fontFamily,
+  size: 10,
+  bold: true,
+  color: dark,
+};
 
 resumo.getRange("A36").values = [["Definição"]];
 resumo.getRange("A36").format.font = { name: fontFamily, size: 10, bold: true, color: dark };

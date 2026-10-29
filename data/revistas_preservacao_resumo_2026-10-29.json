@@ -466,7 +466,44 @@
         "familia": "2.3",
         "revistas": 14
       }
-    ]
+    ],
+    "preservation_by_classification": [
+      {
+        "classificacao": "OJS declarado no Miguilim",
+        "total": 1919,
+        "preservadas": 1161,
+        "percentual_preservadas": 0.6050026055237102,
+        "com_duas_ou_mais_agencias": 305
+      },
+      {
+        "classificacao": "OJS confirmado tecnicamente",
+        "total": 779,
+        "preservadas": 335,
+        "percentual_preservadas": 0.4300385109114249,
+        "com_duas_ou_mais_agencias": 75
+      },
+      {
+        "classificacao": "OJS provável — instalação compartilhada",
+        "total": 850,
+        "preservadas": 551,
+        "percentual_preservadas": 0.648235294117647,
+        "com_duas_ou_mais_agencias": 118
+      },
+      {
+        "classificacao": "OJS provável por assinaturas técnicas",
+        "total": 24,
+        "preservadas": 3,
+        "percentual_preservadas": 0.125,
+        "com_duas_ou_mais_agencias": 1
+      }
+    ],
+    "identified_total": 3572,
+    "identified_preserved": 2050,
+    "identified_preserved_percentage": 0.5739081746920492,
+    "identified_with_two_or_more_agencies": 499,
+    "strict_total": 2698,
+    "strict_preserved": 1496,
+    "strict_preserved_percentage": 0.5544848035581913
   },
   "method": {
     "miguilim_source": "https://miguilim.ibict.br/simple-search (coleção Revistas científicas)",

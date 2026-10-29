@@ -325,6 +325,29 @@ def main() -> None:
         ],
         [4.75, 1.8],
     )
+    doc.add_page_break()
+    doc.add_heading("2.1 Preservação entre as revistas identificadas como OJS", level=2)
+    doc.add_paragraph(
+        "Considerando as categorias OJS declarado, confirmado tecnicamente e provável, "
+        "2.050 das 3.572 revistas estão preservadas, o equivalente a 57,4%."
+    )
+    add_table(
+        doc,
+        ["Classificação OJS", "Total", "Preservadas", "% preservadas", "2+ agências"],
+        [
+            ["OJS declarado no Miguilim", "1.919", "1.161", "60,5%", "305"],
+            ["OJS confirmado tecnicamente", "779", "335", "43,0%", "75"],
+            ["OJS provável por instalação compartilhada", "850", "551", "64,8%", "118"],
+            ["OJS provável por assinaturas técnicas", "24", "3", "12,5%", "1"],
+            ["Total identificado como OJS", "3.572", "2.050", "57,4%", "499"],
+            ["Critério estrito: declarado + confirmado", "2.698", "1.496", "55,4%", "—"],
+        ],
+        [2.65, 0.85, 1.0, 1.0, 1.05],
+    )
+    doc.add_paragraph(
+        "Entre as 2.050 revistas identificadas como OJS e preservadas, 1.551 aparecem em uma agência "
+        "e 499 em duas ou mais agências."
+    )
     doc.add_paragraph(
         "Esses números funcionam como controle de reprodução exata. Uma coleta feita em outra data pode "
         "produzir valores diferentes porque os registros do Miguilim, do Keepers Registry e os sites das "
@@ -563,14 +586,14 @@ def main() -> None:
         ("data/ojs_instance_detection_2026-10-29.json", "47280469a3dccc49a0dc53de1dd33b9611b160f661b7607e1300856ff194c9a4"),
         ("data/ojs_access_revalidation_2026-10-29.json", "917dc0c0431c4a843c73fb04874794ce5ae67ffe3a81d09c19c2f0cd56c0de4c"),
         ("data/ojs_undeclared_active_scan_2026-10-29.json", "8463ad794df87ab03db5d6c85f75bbb5e602f2ac613eba6dc99f7cf3936dc905"),
-        ("data/revistas_preservacao_resumo_2026-10-29.json", "2a98d7d62572963dfcf52d7680084586fb75b96ffb6caa4044890a97148f3a7e"),
+        ("data/revistas_preservacao_resumo_2026-10-29.json", "77b4a67f1cedea3a17fe920391b8c78792da0b4f2e6535f92483bbb5cba0ef12"),
         ("scripts/collect_keepers_brazil.py", "ee727fb146f2813b13ae31d8efa7486890305ebf0b7ce8104416d4f8e94ef56b"),
         ("scripts/collect_ojs_versions.py", "f298d5bb06bc49e7ef8790fcf651c6301ee791583e4d8469d2006702a9a040f9"),
         ("scripts/revalidate_ojs_access_errors.py", "c2ce15a6d151e2b358f79cf172b5a9f7c2362ee1b1f9d5b1e3ceec4161fdd60d"),
         ("scripts/analyze_undeclared_ojs.py", "e3c4a559096bd5c102bb8bcd647238a04c8b7958b0f38987433850b532905fe8"),
         ("scripts/scan_undeclared_ojs_sites.py", "f744e3a8e48cb979ceff008f09efe921a91d4f0e1693edf5f447daf163b21836"),
-        ("scripts/prepare_miguilim_preservation.py", "b1283072e3616c16bed800259671e57db786e9b9b8960b628539564f78e9af78"),
-        ("scripts/build_preservation_workbook.mjs", "68c84ada9ce20f380c7010d815e1a942a1d0830b82e6f67648cad5d22ef70d3c"),
+        ("scripts/prepare_miguilim_preservation.py", "394ce318114f897491fbfaa37e510cd119795bfb4303282ee57d61e52f5aa13f"),
+        ("scripts/build_preservation_workbook.mjs", "39627b24a677d70ea5e1853910d2cafff491800a6fa03f108e60903e88053e45"),
     ]
     add_table(doc, ["Arquivo", "SHA 256"], [[path, digest] for path, digest in hashes], [3.25, 3.3])
 

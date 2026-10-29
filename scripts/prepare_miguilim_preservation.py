@@ -198,6 +198,38 @@ def main() -> None:
         for row in detail
         if row["versao_ojs_detectada"]
     )
+    ojs_identified_categories = (
+        "OJS declarado no Miguilim",
+        "OJS confirmado tecnicamente",
+        "OJS provável — instalação compartilhada",
+        "OJS provável por assinaturas técnicas",
+    )
+    ojs_preservation_by_classification = []
+    for classification in ojs_identified_categories:
+        classified_rows = [row for row in detail if row["resultado_analise_ojs"] == classification]
+        classified_preserved = [row for row in classified_rows if row["quantidade_agencias"] > 0]
+        ojs_preservation_by_classification.append(
+            {
+                "classificacao": classification,
+                "total": len(classified_rows),
+                "preservadas": len(classified_preserved),
+                "percentual_preservadas": pct(len(classified_preserved), len(classified_rows)),
+                "com_duas_ou_mais_agencias": sum(
+                    1 for row in classified_preserved if row["quantidade_agencias"] >= 2
+                ),
+            }
+        )
+    ojs_identified_rows = [
+        row for row in detail if row["resultado_analise_ojs"] in ojs_identified_categories
+    ]
+    ojs_identified_preserved = [
+        row for row in ojs_identified_rows if row["quantidade_agencias"] > 0
+    ]
+    strict_categories = set(ojs_identified_categories[:2])
+    ojs_strict_rows = [
+        row for row in detail if row["resultado_analise_ojs"] in strict_categories
+    ]
+    ojs_strict_preserved = [row for row in ojs_strict_rows if row["quantidade_agencias"] > 0]
 
     status_summary = []
     for situation in ("Vigente", "Descontinuada"):
@@ -251,6 +283,18 @@ def main() -> None:
                 {"familia": family, "revistas": count}
                 for family, count in ojs_family_counts.most_common()
             ],
+            "preservation_by_classification": ojs_preservation_by_classification,
+            "identified_total": len(ojs_identified_rows),
+            "identified_preserved": len(ojs_identified_preserved),
+            "identified_preserved_percentage": pct(
+                len(ojs_identified_preserved), len(ojs_identified_rows)
+            ),
+            "identified_with_two_or_more_agencies": sum(
+                1 for row in ojs_identified_preserved if row["quantidade_agencias"] >= 2
+            ),
+            "strict_total": len(ojs_strict_rows),
+            "strict_preserved": len(ojs_strict_preserved),
+            "strict_preserved_percentage": pct(len(ojs_strict_preserved), len(ojs_strict_rows)),
         },
         "method": {
             "miguilim_source": "https://miguilim.ibict.br/simple-search (coleção Revistas científicas)",
